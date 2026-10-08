@@ -1,0 +1,32 @@
+1
+00:00:02,100 --> 00:00:08,030
+An OCO order places two orders at once. When one trades, the other is cancelled.
+
+2
+00:00:08,130 --> 00:00:11,840
+Right click an instrument and choose Entry OCO Buy.
+
+3
+00:00:11,940 --> 00:00:15,200
+It opens on the OCO tab.
+
+4
+00:00:15,300 --> 00:00:19,280
+The Stop rate buys if the price breaks up above it.
+
+5
+00:00:19,380 --> 00:00:24,160
+The Limit rate buys if the price dips down to it.
+
+6
+00:00:24,260 --> 00:00:30,490
+Click Buy to place both orders together.
+
+7
+00:00:30,590 --> 00:00:34,710
+Both orders now wait under Pending.
+
+8
+00:00:34,810 --> 00:00:39,210
+As soon as one of them trades, the other one is cancelled for you.
+

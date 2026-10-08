@@ -1,0 +1,36 @@
+1
+00:00:02,100 --> 00:00:07,520
+A pending order waits and only trades when the price reaches your level.
+
+2
+00:00:07,620 --> 00:00:10,480
+Right click an instrument. There are Stop and Limit entry orders.
+
+3
+00:00:10,580 --> 00:00:15,290
+A Limit Buy buys if the price falls to your level. Choose Entry Limit Buy.
+
+4
+00:00:15,390 --> 00:00:18,650
+The ticket opens on the Limit tab.
+
+5
+00:00:18,750 --> 00:00:23,180
+Set how far from today's price it should wait, in pips.
+
+6
+00:00:23,280 --> 00:00:27,540
+The rate updates to match: this is the price it will buy at.
+
+7
+00:00:27,640 --> 00:00:33,380
+Click Buy to place the order.
+
+8
+00:00:33,480 --> 00:00:37,310
+It is waiting now, under Pending.
+
+9
+00:00:37,410 --> 00:00:41,810
+It stays here until the price reaches it, or until you cancel it.
+

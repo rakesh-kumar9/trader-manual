@@ -1,0 +1,24 @@
+1
+00:00:01,890 --> 00:00:07,030
+Besides the Account Statement, Reports has Trading Statistics.
+
+2
+00:00:07,130 --> 00:00:10,720
+Choose a period, for example Year.
+
+3
+00:00:10,820 --> 00:00:19,160
+Click Run Report.
+
+4
+00:00:19,260 --> 00:00:24,020
+Profit, trade count, lots and trade times, for winning, losing and even trades.
+
+5
+00:00:24,120 --> 00:00:34,190
+The arrows go back and forward, as in a web browser.
+
+6
+00:00:34,290 --> 00:00:39,750
+The circular arrow reloads the page.
+

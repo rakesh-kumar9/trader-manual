@@ -1,0 +1,20 @@
+1
+00:00:02,090 --> 00:00:06,300
+To change how the app looks, click the Theme icon on the right.
+
+2
+00:00:06,400 --> 00:00:11,720
+Pick Light for a bright screen.
+
+3
+00:00:11,820 --> 00:00:16,080
+The whole app, charts included, switches straight away.
+
+4
+00:00:16,180 --> 00:00:24,280
+Font Size makes all the text smaller or bigger.
+
+5
+00:00:24,380 --> 00:00:32,710
+Pick Dark to go back. Your choice is saved with your profile.
+

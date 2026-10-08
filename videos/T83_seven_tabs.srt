@@ -1,0 +1,32 @@
+1
+00:00:01,900 --> 00:00:05,740
+ActTrader has seven tabs along the top. Trading is where you start.
+
+2
+00:00:05,840 --> 00:00:11,150
+Instruments lists everything your broker offers, with a detail panel and pivot points.
+
+3
+00:00:11,250 --> 00:00:16,570
+Summary puts your accounts, positions, events, risk and alerts on one screen.
+
+4
+00:00:16,670 --> 00:00:24,010
+Reports shows your broker's reports, such as the account statement.
+
+5
+00:00:24,110 --> 00:00:30,430
+ActFX is where you write, test and run automated strategies.
+
+6
+00:00:30,530 --> 00:00:37,870
+Living Market is a live map of currency strength.
+
+7
+00:00:37,970 --> 00:00:46,300
+Analytics shows your trading performance: profit and loss, win rate and more.
+
+8
+00:00:46,400 --> 00:00:49,300
+Trading brings you back to the watchlist, charts and your positions.
+

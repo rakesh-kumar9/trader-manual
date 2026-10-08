@@ -1,0 +1,32 @@
+1
+00:00:02,100 --> 00:00:05,860
+Here are two EURUSD trades. When you hold many trades, grouping makes the list shorter.
+
+2
+00:00:05,960 --> 00:00:09,390
+Turn on Grouped.
+
+3
+00:00:09,490 --> 00:00:13,750
+Now there is one row per instrument, with the total size of all its trades.
+
+4
+00:00:13,850 --> 00:00:17,610
+The open price is their average, marked with a wavy sign.
+
+5
+00:00:17,710 --> 00:00:21,120
+Click the arrow to see the trades inside the group.
+
+6
+00:00:21,220 --> 00:00:25,480
+Each trade is listed underneath, and you can still work with each one.
+
+7
+00:00:25,580 --> 00:00:31,690
+The X on the group row closes all of its trades together.
+
+8
+00:00:31,790 --> 00:00:36,910
+Turn Grouped off to see every trade on its own row again.
+

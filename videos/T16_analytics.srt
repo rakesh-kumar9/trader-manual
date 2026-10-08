@@ -1,0 +1,40 @@
+1
+00:00:02,100 --> 00:00:09,230
+The Analytics tab shows how your trading is going.
+
+2
+00:00:09,330 --> 00:00:20,840
+These buttons pick the time period, from one day to all time.
+
+3
+00:00:20,940 --> 00:00:25,900
+The top row sums it up: profit, win rate, trades and risk.
+
+4
+00:00:26,000 --> 00:00:30,460
+The calendar shows your profit or loss day by day.
+
+5
+00:00:30,560 --> 00:00:35,520
+Health Score gives a quick AI read of your account.
+
+6
+00:00:35,620 --> 00:00:41,520
+Click a day to see what happened on that day.
+
+7
+00:00:41,620 --> 00:00:47,340
+The details for that day open underneath.
+
+8
+00:00:47,440 --> 00:00:53,160
+The equity curve shows how your account value moved.
+
+9
+00:00:53,260 --> 00:00:59,990
+Further down: monthly results, your win rate and your most traded pairs.
+
+10
+00:01:00,090 --> 00:01:04,490
+And your profit for each day, plus how long you hold your trades.
+

@@ -1,0 +1,40 @@
+1
+00:00:02,080 --> 00:00:07,740
+You can change a pending order at any time before it trades.
+
+2
+00:00:07,840 --> 00:00:11,550
+Right click it and choose Modify Order.
+
+3
+00:00:11,650 --> 00:00:16,040
+Type a new entry rate.
+
+4
+00:00:16,140 --> 00:00:20,020
+You can change the amount here too.
+
+5
+00:00:20,120 --> 00:00:25,870
+Click Modify to save it.
+
+6
+00:00:25,970 --> 00:00:31,670
+The new rate shows in the Rate column.
+
+7
+00:00:31,770 --> 00:00:36,130
+To cancel it, right click and choose Remove Order.
+
+8
+00:00:36,230 --> 00:00:40,490
+You are asked to confirm, so a slip of the mouse cannot cancel it.
+
+9
+00:00:40,590 --> 00:00:46,300
+Click OK to cancel the order.
+
+10
+00:00:46,400 --> 00:00:50,310
+The order is cancelled and removed from Pending.
+

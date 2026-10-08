@@ -1,0 +1,40 @@
+1
+00:00:01,900 --> 00:00:08,980
+ActAI writes a trading strategy for you from a plain description.
+
+2
+00:00:09,080 --> 00:00:12,840
+Pick one of the examples, or type your own idea.
+
+3
+00:00:12,940 --> 00:00:19,310
+Describe what you want in everyday words.
+
+4
+00:00:19,410 --> 00:00:29,160
+Press Send.
+
+5
+00:00:29,260 --> 00:00:34,160
+First it shows its plan: the rules and settings it understood.
+
+6
+00:00:34,260 --> 00:00:38,670
+If it looks right, click Generate strategy.
+
+7
+00:00:38,770 --> 00:00:43,680
+ActAI writes the code and checks that it compiles.
+
+8
+00:00:46,710 --> 00:00:54,140
+The finished strategy appears as code, ready to use.
+
+9
+00:00:54,240 --> 00:00:58,000
+The green tick means it compiled with no errors.
+
+10
+00:00:58,100 --> 00:01:01,500
+Send to Editor saves it, so you can test or run it.
+

@@ -1,0 +1,44 @@
+1
+00:00:01,900 --> 00:00:04,320
+Right-click a Bid price for a short menu with only the Sell orders.
+
+2
+00:00:04,420 --> 00:00:08,280
+It is headed by the instrument, the side and the price.
+
+3
+00:00:08,380 --> 00:00:13,100
+An Ask price gives the Buy orders. Escape closes the menu.
+
+4
+00:00:13,200 --> 00:00:15,660
+For the keyboard, first click an instrument in the list.
+
+5
+00:00:15,760 --> 00:00:19,060
+Down and Up move through the list. The chart stays as it is.
+
+6
+00:00:19,160 --> 00:00:21,960
+Enter shows the highlighted instrument on the chart.
+
+7
+00:00:22,060 --> 00:00:25,760
+The Menu key on your keyboard opens the right-click menu.
+
+8
+00:00:25,860 --> 00:00:31,100
+Alt+F jumps to the search box. Escape clears it.
+
+9
+00:00:31,200 --> 00:00:34,940
+Three more columns can be shown. Right-click a column heading.
+
+10
+00:00:35,040 --> 00:00:41,040
+Choose Customize columns, then tick High, Low and % Chg.
+
+11
+00:00:41,140 --> 00:00:45,040
+High and Low show today's range, and % Chg today's change.
+

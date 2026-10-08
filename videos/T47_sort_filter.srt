@@ -1,0 +1,36 @@
+1
+00:00:13,940 --> 00:00:17,700
+Every table can be sorted and filtered. Here is the Closed tab.
+
+2
+00:00:17,800 --> 00:00:23,880
+Click a column header to sort by it. Click again to reverse the order.
+
+3
+00:00:23,980 --> 00:00:27,690
+Click Filters to show a filter box under each header.
+
+4
+00:00:27,790 --> 00:00:31,510
+Click the one for the column you want, here Instrument.
+
+5
+00:00:31,610 --> 00:00:34,820
+Move instruments between Visible and Invisible. This button hides them all.
+
+6
+00:00:34,920 --> 00:00:39,090
+Then pick one, here AUDCAD, and move it back to Visible.
+
+7
+00:00:39,190 --> 00:00:43,410
+Click Ok.
+
+8
+00:00:43,510 --> 00:00:47,270
+Now only AUDCAD trades are listed.
+
+9
+00:00:47,370 --> 00:00:51,220
+Click the cross next to Filters to clear every filter.
+

@@ -1,0 +1,40 @@
+1
+00:00:01,890 --> 00:00:06,940
+The Instruments tab lists every instrument, grouped by type.
+
+2
+00:00:07,040 --> 00:00:11,310
+Type in the search box to find one.
+
+3
+00:00:11,410 --> 00:00:15,540
+Click an instrument to see its details on the right.
+
+4
+00:00:15,640 --> 00:00:20,400
+Here are the live Sell and Buy prices, the spread and today's change.
+
+5
+00:00:20,500 --> 00:00:24,760
+Today's range shows the day's low and high, and where the price is now.
+
+6
+00:00:24,860 --> 00:00:30,120
+Contract info shows the smallest and largest trade size, and the step between sizes.
+
+7
+00:00:30,220 --> 00:00:35,480
+Pivot points mark today's key support and resistance levels. The arrow is the current price.
+
+8
+00:00:35,580 --> 00:00:41,060
+Choose how the pivots are worked out.
+
+9
+00:00:41,160 --> 00:00:44,920
+Sell, Chart and Buy work straight from here.
+
+10
+00:00:45,020 --> 00:00:48,420
+Below, you see the latest news about this instrument.
+

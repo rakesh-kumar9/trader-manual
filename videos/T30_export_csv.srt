@@ -1,0 +1,28 @@
+1
+00:00:01,880 --> 00:00:12,690
+You can save any table as a spreadsheet file.
+
+2
+00:00:12,790 --> 00:00:16,550
+Here are your closed trades for the last month.
+
+3
+00:00:16,650 --> 00:00:19,760
+Click Export CSV.
+
+4
+00:00:19,860 --> 00:00:24,620
+It tells you what will be saved: the table, and how many rows and columns.
+
+5
+00:00:24,720 --> 00:00:28,980
+Click Export and the file opens in your spreadsheet app, such as Excel.
+
+6
+00:00:29,080 --> 00:00:33,790
+Or Cancel if you change your mind.
+
+7
+00:00:33,890 --> 00:00:37,300
+Export CSV works the same on every table in the app.
+

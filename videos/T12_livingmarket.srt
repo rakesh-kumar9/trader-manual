@@ -1,0 +1,28 @@
+1
+00:00:06,300 --> 00:00:15,200
+Living Market shows how currencies are behaving right now.
+
+2
+00:00:15,300 --> 00:00:22,300
+The top left tells you which trading session is open.
+
+3
+00:00:22,500 --> 00:00:30,000
+The top right explains what the map is showing.
+
+4
+00:00:30,100 --> 00:00:36,800
+Each circle is a currency. The number is how much it has moved.
+
+5
+00:00:37,000 --> 00:00:43,700
+Green means it is getting stronger, red means weaker.
+
+6
+00:00:43,800 --> 00:00:53,000
+Pick a pair on the map and you can trade it from here.
+
+7
+00:00:53,200 --> 00:00:59,000
+Trading takes you back.
+

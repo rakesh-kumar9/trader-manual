@@ -1,0 +1,44 @@
+1
+00:00:02,100 --> 00:00:07,780
+A stop loss limits your loss. A take profit locks in your gain.
+
+2
+00:00:07,880 --> 00:00:11,600
+Right click your trade and choose Stop.
+
+3
+00:00:11,700 --> 00:00:15,960
+Set the price where you want to get out if the market goes against you.
+
+4
+00:00:16,060 --> 00:00:20,460
+It shows the distance in points and what you would lose.
+
+5
+00:00:20,560 --> 00:00:26,070
+Click OK.
+
+6
+00:00:26,170 --> 00:00:34,040
+The stop loss now shows in the Stop column.
+
+7
+00:00:34,140 --> 00:00:37,850
+For a take profit, right click the trade and choose Limit.
+
+8
+00:00:37,950 --> 00:00:42,210
+Set the price where you want to take your profit.
+
+9
+00:00:42,310 --> 00:00:46,190
+Again it shows the distance and what you would make.
+
+10
+00:00:46,290 --> 00:00:51,810
+Click OK.
+
+11
+00:00:51,910 --> 00:00:55,810
+Now the trade has both: a stop loss and a take profit.
+

@@ -1,0 +1,36 @@
+1
+00:00:02,090 --> 00:00:06,910
+The toolbar on the left of the chart holds the drawing tools.
+
+2
+00:00:07,010 --> 00:00:11,430
+Each button opens a group of tools. Pick Trend Line.
+
+3
+00:00:11,530 --> 00:00:20,110
+Click where the line starts, then click where it ends.
+
+4
+00:00:20,210 --> 00:00:24,770
+Click a drawing to select it. The bar above lets you change its colour, width and style.
+
+5
+00:00:24,870 --> 00:00:29,130
+Press Delete to remove it.
+
+6
+00:00:29,230 --> 00:00:32,070
+The next button holds the Fibonacci tools.
+
+7
+00:00:32,170 --> 00:00:35,580
+Pick Fibonacci Retracement.
+
+8
+00:00:35,680 --> 00:00:40,960
+Click the start of the move, then the end.
+
+9
+00:00:41,060 --> 00:00:45,470
+The retracement levels are drawn between the two points, with their prices.
+

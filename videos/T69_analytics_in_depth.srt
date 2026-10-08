@@ -1,0 +1,44 @@
+1
+00:00:01,890 --> 00:00:06,150
+Analytics shows how your trading has gone. Pick a period here, from one day to all time.
+
+2
+00:00:06,250 --> 00:00:11,510
+The top row sums it up: total profit, win rate, number of trades, profit factor, drawdown and Sharpe ratio.
+
+3
+00:00:11,610 --> 00:00:15,870
+The calendar colours each day by its result. The chips add up the month.
+
+4
+00:00:15,970 --> 00:00:21,660
+Click a day to see its details.
+
+5
+00:00:21,760 --> 00:00:28,170
+They open below the calendar: that day's profit, trades and balance.
+
+6
+00:00:28,270 --> 00:00:32,530
+The equity curve shows how your account value moved. Click the chips to add balance or profit lines.
+
+7
+00:00:32,630 --> 00:00:38,960
+Drawdown shows how far the account fell from its high point.
+
+8
+00:00:39,060 --> 00:00:46,380
+Monthly PnL, your win rate with buys and sells, and which instruments you trade most.
+
+9
+00:00:46,480 --> 00:00:53,870
+Daily PnL shows each day's result. Holding Period shows how long you keep trades open.
+
+10
+00:00:53,970 --> 00:01:02,920
+At the bottom: realised profit, your deposits, fees and interest, and average wins and losses.
+
+11
+00:01:03,020 --> 00:01:05,920
+The refresh button at the top right loads the latest figures.
+

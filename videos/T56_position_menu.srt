@@ -1,0 +1,36 @@
+1
+00:00:02,080 --> 00:00:05,370
+Right-click an open trade to see everything you can do with it.
+
+2
+00:00:05,470 --> 00:00:09,030
+Stop sets a stop loss, and Limit sets a take profit.
+
+3
+00:00:09,130 --> 00:00:12,690
+Trailing Stop moves your stop along as the price moves your way.
+
+4
+00:00:12,790 --> 00:00:17,050
+Bulk Operations closes many trades at once, like all profitable ones.
+
+5
+00:00:17,150 --> 00:00:22,410
+Close Position closes this trade. Hedge opens the opposite trade. The shortcut keys are shown on the right.
+
+6
+00:00:22,510 --> 00:00:26,070
+Copy Trade ID copies its number, for example to send to support.
+
+7
+00:00:26,170 --> 00:00:30,430
+Export to Excel saves the table, and Filters narrow down what it shows.
+
+8
+00:00:30,530 --> 00:00:34,660
+View on Chart shows the trade's chart.
+
+9
+00:00:34,760 --> 00:00:38,160
+The chart shows this trade's instrument, with the trade drawn on it.
+

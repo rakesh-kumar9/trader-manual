@@ -1,0 +1,44 @@
+1
+00:00:02,100 --> 00:00:05,760
+A price alert tells you when a price reaches a level you choose.
+
+2
+00:00:05,860 --> 00:00:08,930
+Select an instrument in the watchlist, then press Alt+P.
+
+3
+00:00:09,030 --> 00:00:12,790
+The alert window opens on that instrument and shows its live prices.
+
+4
+00:00:12,890 --> 00:00:16,640
+Choose whether to watch the Bid or the Ask price.
+
+5
+00:00:16,740 --> 00:00:20,000
+The alert rate starts at the current price.
+
+6
+00:00:20,100 --> 00:00:23,670
+The arrows nudge it up or down.
+
+7
+00:00:23,770 --> 00:00:26,290
+Or type the price you want.
+
+8
+00:00:26,390 --> 00:00:30,150
+The line below tells you what will trigger the alert.
+
+9
+00:00:30,250 --> 00:00:34,960
+Click Set Alert.
+
+10
+00:00:35,060 --> 00:00:39,880
+Your alerts are listed on the Summary tab.
+
+11
+00:00:39,980 --> 00:00:44,380
+Here it is, waiting for the price to get there. Alerts are kept on the server.
+

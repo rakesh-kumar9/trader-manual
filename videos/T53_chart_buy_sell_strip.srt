@@ -1,0 +1,24 @@
+1
+00:00:02,090 --> 00:00:06,350
+Above the chart is a one-click Buy and Sell strip for the instrument you are viewing.
+
+2
+00:00:06,450 --> 00:00:10,570
+Sell shows the price you sell at. Buy shows the price you buy at.
+
+3
+00:00:10,670 --> 00:00:14,470
+Set the size in the middle, or use the arrows.
+
+4
+00:00:14,570 --> 00:00:20,440
+One click on Buy places the order straight away, so check the size first.
+
+5
+00:00:20,540 --> 00:00:24,300
+The trade is open, at the size you set.
+
+6
+00:00:24,400 --> 00:00:26,800
+It is drawn on the chart too.
+

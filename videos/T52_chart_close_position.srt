@@ -1,0 +1,28 @@
+1
+00:00:02,090 --> 00:00:06,350
+Your open trade is drawn on the chart, with its profit or loss on the label.
+
+2
+00:00:06,450 --> 00:00:11,350
+To close it from the chart, click the X on its label.
+
+3
+00:00:11,450 --> 00:00:15,710
+The Close Position window opens first, so nothing closes until you confirm.
+
+4
+00:00:15,810 --> 00:00:19,570
+Close all of it, or just part by changing the amount.
+
+5
+00:00:19,670 --> 00:00:26,000
+Click Ok to close it.
+
+6
+00:00:26,100 --> 00:00:29,850
+The trade is closed and its line is gone.
+
+7
+00:00:29,950 --> 00:00:33,350
+If Quick Trade is on, the X closes straight away without asking.
+

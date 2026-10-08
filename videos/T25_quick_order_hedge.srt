@@ -1,0 +1,32 @@
+1
+00:00:02,090 --> 00:00:06,300
+The quickest way to trade: click a price in the watchlist.
+
+2
+00:00:06,400 --> 00:00:10,660
+Clicking the Ask opens a Buy. Clicking the Bid opens a Sell.
+
+3
+00:00:10,760 --> 00:00:17,190
+Click Buy to place it.
+
+4
+00:00:17,290 --> 00:00:21,000
+To hedge a trade, click the H next to it.
+
+5
+00:00:21,100 --> 00:00:25,360
+The ticket is set up for you: the opposite side, the same amount.
+
+6
+00:00:25,460 --> 00:00:29,220
+The comment links it to the trade it protects.
+
+7
+00:00:29,320 --> 00:00:35,550
+Click Sell to open the hedge.
+
+8
+00:00:35,650 --> 00:00:40,050
+Now you hold a Buy and a Sell of the same size, so the price no longer moves your profit.
+

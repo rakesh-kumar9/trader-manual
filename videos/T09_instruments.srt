@@ -1,0 +1,36 @@
+1
+00:00:06,200 --> 00:00:13,500
+The Instruments tab lists everything your broker offers.
+
+2
+00:00:13,700 --> 00:00:19,800
+They are grouped by type — Forex, Crypto, Stocks and so on.
+
+3
+00:00:20,000 --> 00:00:25,600
+Each group shows a few to start with.
+
+4
+00:00:25,800 --> 00:00:32,400
+Click a group to see them all.
+
+5
+00:00:32,500 --> 00:00:38,300
+Click any instrument for more detail.
+
+6
+00:00:38,400 --> 00:00:46,400
+A panel slides in on the right.
+
+7
+00:00:46,500 --> 00:00:52,800
+It shows the live price and the day's range.
+
+8
+00:00:52,900 --> 00:01:03,100
+Pivot points show possible support and resistance levels.
+
+9
+00:01:03,300 --> 00:01:09,100
+Trading takes you back to the main screen.
+

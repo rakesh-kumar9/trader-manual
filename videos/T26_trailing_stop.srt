@@ -1,0 +1,32 @@
+1
+00:00:02,090 --> 00:00:07,830
+A trailing stop follows the price as it moves in your favour.
+
+2
+00:00:07,930 --> 00:00:11,950
+Right click your trade and choose Trailing Stop.
+
+3
+00:00:12,050 --> 00:00:15,810
+Set Trailing Stop Distance is already ticked.
+
+4
+00:00:15,910 --> 00:00:21,880
+With trailing on, the stop is set by the distance below, not by this rate.
+
+5
+00:00:21,980 --> 00:00:25,910
+Then choose how far behind the price the stop should follow.
+
+6
+00:00:26,010 --> 00:00:32,720
+Click OK.
+
+7
+00:00:32,820 --> 00:00:37,580
+The trade now shows its stop, and the trailing distance under TR.STOP.
+
+8
+00:00:37,680 --> 00:00:42,080
+As the price rises, the stop moves up with it. It never moves back down.
+

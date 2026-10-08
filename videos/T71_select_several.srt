@@ -1,0 +1,40 @@
+1
+00:00:02,090 --> 00:00:05,420
+You can work with several trades at once. Click one to select it.
+
+2
+00:00:05,520 --> 00:00:08,020
+Hold Ctrl and click another to add it.
+
+3
+00:00:08,120 --> 00:00:13,610
+Shift and click selects every trade in between.
+
+4
+00:00:13,710 --> 00:00:18,970
+Now the menu acts on all of them, for example Close 2 Positions.
+
+5
+00:00:19,070 --> 00:00:22,230
+Press Escape to go back to a single trade.
+
+6
+00:00:22,330 --> 00:00:27,190
+With a trade clicked, Ctrl+A selects every trade in the table.
+
+7
+00:00:27,290 --> 00:00:30,450
+The keyboard works too. Use Up and Down to move between trades.
+
+8
+00:00:30,550 --> 00:00:34,760
+Alt+C opens Close Position for the selected trade. We will cancel it here.
+
+9
+00:00:34,860 --> 00:00:38,760
+Alt+T sets a stop loss, Alt+L a take profit, and Alt+H opens a hedge.
+
+10
+00:00:38,860 --> 00:00:42,760
+Careful: Delete and Ctrl+C also close the selected trade here.
+

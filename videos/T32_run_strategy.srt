@@ -1,0 +1,52 @@
+1
+00:00:01,900 --> 00:00:08,170
+When you are happy with a strategy, you can run it for real.
+
+2
+00:00:08,270 --> 00:00:12,090
+Select a strategy and click Run.
+
+3
+00:00:12,190 --> 00:00:16,450
+Choose the account, the timeframe and the instrument.
+
+4
+00:00:16,550 --> 00:00:21,810
+Check the settings, like the trade size and the stop loss. The broker's minimum distance is shown under the stop and limit.
+
+5
+00:00:21,910 --> 00:00:26,170
+Risk controls can cap the lot size or stop it after a drawdown.
+
+6
+00:00:26,270 --> 00:00:32,110
+Click Run.
+
+7
+00:00:32,210 --> 00:00:36,470
+It is now running and watching the market for you.
+
+8
+00:00:36,570 --> 00:00:40,330
+The log shows everything it does.
+
+9
+00:00:40,430 --> 00:00:44,690
+These tabs show its trades, orders and results so far.
+
+10
+00:00:44,790 --> 00:00:47,920
+To stop it, click Stop.
+
+11
+00:00:48,020 --> 00:00:51,800
+Tick these to close its trades and cancel its orders as it stops.
+
+12
+00:00:51,900 --> 00:00:57,620
+Only trades this strategy placed are touched.
+
+13
+00:00:57,720 --> 00:01:00,620
+The strategy has stopped.
+

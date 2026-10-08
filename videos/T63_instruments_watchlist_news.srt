@@ -1,0 +1,40 @@
+1
+00:00:01,890 --> 00:00:10,480
+On the Instruments tab you can add any instrument to your own watchlists.
+
+2
+00:00:10,580 --> 00:00:14,700
+Find the instrument and click it to open its details.
+
+3
+00:00:14,800 --> 00:00:17,620
+Click Add to Watchlist.
+
+4
+00:00:17,720 --> 00:00:22,560
+Tick the lists it should go in, then click Done.
+
+5
+00:00:22,660 --> 00:00:31,770
+The star shows it is in one of your lists.
+
+6
+00:00:31,870 --> 00:00:40,500
+On the Trading tab, it now appears in that watchlist.
+
+7
+00:00:40,600 --> 00:00:44,670
+Press Alt+W to show or hide the news panel.
+
+8
+00:00:44,770 --> 00:00:50,890
+Market News shows the latest stories as they come in.
+
+9
+00:00:50,990 --> 00:00:55,050
+The details panel also lists news about the selected instrument.
+
+10
+00:00:55,150 --> 00:00:59,150
+Press Alt+W again to hide the news panel.
+

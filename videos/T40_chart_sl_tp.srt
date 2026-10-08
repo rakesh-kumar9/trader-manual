@@ -1,0 +1,28 @@
+1
+00:00:02,090 --> 00:00:06,350
+Your open trade is drawn on the chart as a line at its opening price.
+
+2
+00:00:06,450 --> 00:00:10,480
+Click its label to edit it.
+
+3
+00:00:10,580 --> 00:00:17,950
+Drag SL down to set a stop loss. The label shows what you would lose there.
+
+4
+00:00:18,050 --> 00:00:25,390
+Drag TP up to set a take profit, and see what you would gain.
+
+5
+00:00:25,490 --> 00:00:32,200
+Click the tick to save both.
+
+6
+00:00:32,300 --> 00:00:36,560
+The trade now shows its Stop and Limit prices.
+
+7
+00:00:36,660 --> 00:00:40,060
+To change them later, click the trade on the chart and drag the lines again.
+

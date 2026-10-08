@@ -1,0 +1,48 @@
+1
+00:00:04,300 --> 00:00:09,200
+The panel at the bottom shows your trades.
+
+2
+00:00:09,300 --> 00:00:13,500
+Instrument is what you bought or sold.
+
+3
+00:00:13,700 --> 00:00:17,900
+B or S tells you if it was a buy or a sell.
+
+4
+00:00:18,000 --> 00:00:22,600
+Amount is how much you traded.
+
+5
+00:00:22,800 --> 00:00:27,500
+Open is the price you got in at.
+
+6
+00:00:27,600 --> 00:00:32,300
+P/L is your profit or loss right now.
+
+7
+00:00:32,500 --> 00:00:38,600
+Net P/L is the same but after costs.
+
+8
+00:00:38,700 --> 00:00:45,500
+Pending shows orders waiting to happen.
+
+9
+00:00:45,600 --> 00:00:53,000
+Closed shows trades you have already finished.
+
+10
+00:00:53,100 --> 00:00:58,100
+Open brings you back to your live trades.
+
+11
+00:00:58,300 --> 00:01:03,500
+Filters let you narrow down what you see.
+
+12
+00:01:03,700 --> 00:01:09,500
+Export CSV saves the list to a file.
+

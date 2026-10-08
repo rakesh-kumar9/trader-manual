@@ -1,0 +1,44 @@
+1
+00:00:01,890 --> 00:00:04,660
+Two Entry Limit orders are waiting on the Pending tab.
+
+2
+00:00:04,760 --> 00:00:07,960
+Select an order and press Enter to change its rate or amount.
+
+3
+00:00:08,060 --> 00:00:12,140
+Escape closes the window without changing anything.
+
+4
+00:00:12,240 --> 00:00:14,390
+To add a note to an order, right-click it and choose Comment.
+
+5
+00:00:14,490 --> 00:00:17,970
+Type up to 50 characters, then click Ok.
+
+6
+00:00:18,070 --> 00:00:23,330
+The order is updated with your note.
+
+7
+00:00:23,430 --> 00:00:27,700
+Choose Comment again to read or change it.
+
+8
+00:00:27,800 --> 00:00:31,880
+Ctrl+A selects every order.
+
+9
+00:00:31,980 --> 00:00:36,200
+The menu now reads Remove 2 Orders.
+
+10
+00:00:36,300 --> 00:00:43,500
+You are asked to confirm before anything is cancelled.
+
+11
+00:00:43,600 --> 00:00:46,500
+Both orders are cancelled.
+

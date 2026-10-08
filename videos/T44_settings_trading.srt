@@ -1,0 +1,36 @@
+1
+00:00:02,100 --> 00:00:06,620
+The gear on the right opens Settings.
+
+2
+00:00:06,720 --> 00:00:11,480
+On the Account page, choose which time zone times are shown in.
+
+3
+00:00:11,580 --> 00:00:15,290
+The Trading page holds your trading preferences.
+
+4
+00:00:15,390 --> 00:00:19,120
+Choose whether trade sizes show as lots or as the full amount.
+
+5
+00:00:19,220 --> 00:00:26,100
+With Full Amount, 0.01 lots shows as 1,000.
+
+6
+00:00:26,200 --> 00:00:30,960
+Default Trader Range is the slippage you accept, filled in on every order ticket.
+
+7
+00:00:31,060 --> 00:00:35,820
+Default Orders Distance sets the stop, limit and entry distance for each instrument.
+
+8
+00:00:35,920 --> 00:00:40,180
+Here you can also turn notifications and sounds on or off.
+
+9
+00:00:40,280 --> 00:00:43,450
+Changes apply straight away. Close Settings when you are done.
+

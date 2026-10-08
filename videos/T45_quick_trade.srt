@@ -1,0 +1,28 @@
+1
+00:00:02,090 --> 00:00:07,620
+Quick Trade lets you trade with a single click. Turn it on with this button, or Alt+Q.
+
+2
+00:00:07,720 --> 00:00:11,980
+A lot size column appears on every row. Use minus and plus to change it.
+
+3
+00:00:12,080 --> 00:00:20,770
+If the names are cut off, drag the edge to make the watchlist wider.
+
+4
+00:00:20,870 --> 00:00:28,510
+Now one click on the Ask buys straight away, and one click on the Bid sells. There is no ticket.
+
+5
+00:00:28,610 --> 00:00:33,230
+The position opens at once.
+
+6
+00:00:33,330 --> 00:00:39,350
+Closing is instant too: Close Position closes it with no confirmation.
+
+7
+00:00:39,450 --> 00:00:43,440
+So use Quick Trade with care. Click the button again to turn it off.
+

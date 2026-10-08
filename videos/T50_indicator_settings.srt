@@ -1,0 +1,36 @@
+1
+00:00:02,100 --> 00:00:06,140
+Every indicator has settings you can change. First add one: click Indicators.
+
+2
+00:00:06,240 --> 00:00:12,360
+Pick Moving Average.
+
+3
+00:00:12,460 --> 00:00:16,880
+It is added with a tag. The gear opens its settings.
+
+4
+00:00:16,980 --> 00:00:20,710
+Period is how many candles it averages. Change 20 to 50 for a smoother line.
+
+5
+00:00:20,810 --> 00:00:25,070
+You can also pick its colour, the price it uses, and its timeframe.
+
+6
+00:00:25,170 --> 00:00:29,410
+Click Update.
+
+7
+00:00:29,510 --> 00:00:33,270
+The line redraws with the new setting.
+
+8
+00:00:33,370 --> 00:00:39,240
+The eye hides it for a moment. Click again to show it.
+
+9
+00:00:39,340 --> 00:00:42,690
+The X removes it from the chart.
+

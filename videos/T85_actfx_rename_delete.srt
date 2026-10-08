@@ -1,0 +1,28 @@
+1
+00:00:01,880 --> 00:00:05,720
+Strategies you made or cloned are listed under My Strategies.
+
+2
+00:00:05,820 --> 00:00:07,980
+Right-click one and choose Rename.
+
+3
+00:00:08,080 --> 00:00:14,040
+Type the new name and click Rename.
+
+4
+00:00:14,140 --> 00:00:18,460
+The new name shows in the list.
+
+5
+00:00:18,560 --> 00:00:21,470
+Delete removes it. The supplied strategies cannot be renamed or deleted.
+
+6
+00:00:21,570 --> 00:00:27,090
+You are asked to confirm, because this cannot be undone.
+
+7
+00:00:27,190 --> 00:00:29,590
+It is gone from My Strategies.
+

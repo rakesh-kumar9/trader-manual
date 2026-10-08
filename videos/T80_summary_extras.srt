@@ -1,0 +1,32 @@
+1
+00:00:01,900 --> 00:00:04,660
+Summary rolls your open positions up, one row per instrument and side.
+
+2
+00:00:04,760 --> 00:00:07,910
+To find an instrument quickly, type in the search box.
+
+3
+00:00:08,010 --> 00:00:11,270
+Only matching rows stay. Clear the box to see them all again.
+
+4
+00:00:11,370 --> 00:00:14,320
+The red Close button closes every position in that instrument, Buy and Sell.
+
+5
+00:00:14,420 --> 00:00:20,900
+You are asked to confirm, with the instrument named.
+
+6
+00:00:21,000 --> 00:00:24,270
+Both EURUSD positions are now closed.
+
+7
+00:00:24,370 --> 00:00:28,700
+Events and Messages logs what happened. Click an entry to read it in full below.
+
+8
+00:00:28,800 --> 00:00:31,750
+Click a column heading to sort the log by that column.
+

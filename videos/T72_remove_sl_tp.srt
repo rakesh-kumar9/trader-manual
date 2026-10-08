@@ -1,0 +1,28 @@
+1
+00:00:02,090 --> 00:00:07,280
+This trade has a stop loss and a take profit.
+
+2
+00:00:07,380 --> 00:00:11,480
+To remove the stop loss, right-click the trade and choose Stop.
+
+3
+00:00:11,580 --> 00:00:17,600
+Click Remove. There is no confirmation, so be sure first.
+
+4
+00:00:17,700 --> 00:00:23,390
+The stop loss is gone. The trade is no longer protected below.
+
+5
+00:00:23,490 --> 00:00:27,620
+The take profit works the same way: choose Limit.
+
+6
+00:00:27,720 --> 00:00:33,230
+Click Remove.
+
+7
+00:00:33,330 --> 00:00:37,730
+Now the trade has neither. You can also remove them on the chart with the X on their label.
+

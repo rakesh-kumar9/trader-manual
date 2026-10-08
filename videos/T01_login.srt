@@ -1,0 +1,52 @@
+1
+00:00:01,900 --> 00:00:06,060
+This is the login screen you see when you open ActTrader.
+
+2
+00:00:06,160 --> 00:00:11,210
+Start with the Server box. This is your broker.
+
+3
+00:00:11,310 --> 00:00:14,480
+Type a few letters and matching servers appear.
+
+4
+00:00:14,580 --> 00:00:18,620
+Click the one your broker gave you.
+
+5
+00:00:18,720 --> 00:00:20,590
+Now click the Account ID box.
+
+6
+00:00:20,690 --> 00:00:23,680
+Type the account number your broker gave you.
+
+7
+00:00:23,780 --> 00:00:25,650
+Then click the Password box.
+
+8
+00:00:25,750 --> 00:00:29,200
+Your password stays hidden as you type.
+
+9
+00:00:29,300 --> 00:00:32,830
+Tick Remember me to skip this next time.
+
+10
+00:00:32,930 --> 00:00:34,900
+Now click Login.
+
+11
+00:00:35,000 --> 00:00:39,960
+Your account is loading. This takes a few seconds.
+
+12
+00:00:40,060 --> 00:00:44,960
+Prices and your chart are connecting.
+
+13
+00:00:45,060 --> 00:00:49,960
+You are in. This is your trading workspace.
+

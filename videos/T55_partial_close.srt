@@ -1,0 +1,28 @@
+1
+00:00:02,080 --> 00:00:08,220
+This trade is 0.02 lots. You can close just part of it.
+
+2
+00:00:08,320 --> 00:00:11,430
+Right-click it and pick Close Position.
+
+3
+00:00:11,530 --> 00:00:15,660
+Change the amount to the part you want to close, here 0.01.
+
+4
+00:00:15,760 --> 00:00:19,020
+You can also drag this slider.
+
+5
+00:00:19,120 --> 00:00:24,230
+Click Ok.
+
+6
+00:00:24,330 --> 00:00:28,590
+0.01 is closed. The other 0.01 stays open.
+
+7
+00:00:28,690 --> 00:00:32,600
+The chart line now shows 0.01 too. Close the rest the same way when you are ready.
+

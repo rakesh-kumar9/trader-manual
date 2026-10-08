@@ -1,0 +1,32 @@
+1
+00:00:02,100 --> 00:00:04,920
+You can keep more than one account in ActTrader and switch between them.
+
+2
+00:00:05,020 --> 00:00:09,780
+Click the logo to see your accounts. The tick shows the one you are using.
+
+3
+00:00:09,880 --> 00:00:13,000
+Add new account opens a login form.
+
+4
+00:00:13,100 --> 00:00:17,860
+Pick the server, then enter that account's login and password.
+
+5
+00:00:17,960 --> 00:00:22,220
+Click Login. The account is checked, then added to your list.
+
+6
+00:00:22,320 --> 00:00:26,030
+We will cancel here.
+
+7
+00:00:26,130 --> 00:00:30,390
+Once added, open this menu and click an account to switch to it.
+
+8
+00:00:30,490 --> 00:00:33,890
+Each account keeps its own watchlists, layout and strategies.
+

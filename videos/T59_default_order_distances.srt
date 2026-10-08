@@ -1,0 +1,44 @@
+1
+00:00:01,990 --> 00:00:05,120
+Open Settings with the gear icon.
+
+2
+00:00:05,220 --> 00:00:08,330
+Go to the Trading section.
+
+3
+00:00:08,430 --> 00:00:13,190
+Default Orders Distance sets how far from the price your stop, limit and entry orders start.
+
+4
+00:00:13,290 --> 00:00:17,520
+Click Configure.
+
+5
+00:00:17,620 --> 00:00:21,990
+Min. Distance is your broker's minimum for each instrument.
+
+6
+00:00:22,090 --> 00:00:26,350
+Grey values follow that minimum. Your own values show in bold.
+
+7
+00:00:26,450 --> 00:00:30,250
+Search to find an instrument.
+
+8
+00:00:30,350 --> 00:00:33,720
+Click a value to change it. Here, the stop distance.
+
+9
+00:00:33,820 --> 00:00:38,700
+Type the distance in pips.
+
+10
+00:00:38,800 --> 00:00:43,060
+Now every new EURUSD stop starts 10 pips from the price.
+
+11
+00:00:43,160 --> 00:00:48,090
+Reset all distances to go back to your broker's minimums.
+

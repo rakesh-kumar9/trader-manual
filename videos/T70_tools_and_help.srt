@@ -1,0 +1,44 @@
+1
+00:00:01,910 --> 00:00:03,610
+Press Ctrl+K to open the command palette.
+
+2
+00:00:03,710 --> 00:00:08,560
+It lists what you can type.
+
+3
+00:00:08,660 --> 00:00:15,510
+Type chart and an instrument, then press Enter, to open its chart.
+
+4
+00:00:15,610 --> 00:00:22,630
+Type goto and a tab name to jump to that tab.
+
+5
+00:00:22,730 --> 00:00:26,630
+Buy and sell place an order as soon as you press Enter, so check it first.
+
+6
+00:00:26,730 --> 00:00:34,200
+Press Escape to close the palette without doing anything.
+
+7
+00:00:34,300 --> 00:00:37,220
+The question mark at the bottom right is Help.
+
+8
+00:00:37,320 --> 00:00:42,310
+It opens the Trader Manual, and lists the keyboard shortcuts.
+
+9
+00:00:42,410 --> 00:00:53,190
+Every shortcut is listed here. Shift+F1 opens this from anywhere.
+
+10
+00:00:53,290 --> 00:00:58,620
+In Settings, under Trading, you can turn notifications on or off.
+
+11
+00:00:58,720 --> 00:01:05,730
+Below that, you choose which events play a sound, and how loud.
+

@@ -1,0 +1,32 @@
+1
+00:00:01,880 --> 00:00:03,950
+The Instruments tab lists every instrument your broker offers, grouped by type.
+
+2
+00:00:04,050 --> 00:00:09,360
+Right-click an instrument for its chart, a price alert, or an order.
+
+3
+00:00:09,460 --> 00:00:12,080
+In the detail panel, click the pivot method to choose another formula.
+
+4
+00:00:12,180 --> 00:00:14,600
+Pick Classic, Woodie, Camarilla, Fibonacci or DeMark.
+
+5
+00:00:14,700 --> 00:00:18,460
+The levels are worked out again with the new formula.
+
+6
+00:00:18,560 --> 00:00:21,970
+Six more columns are hidden as standard. Right-click a heading and choose Customize.
+
+7
+00:00:22,070 --> 00:00:29,970
+Tick MaxVol, the rollover columns, ImmD, Trade Step and NT Interval.
+
+8
+00:00:30,070 --> 00:00:33,970
+They now appear as columns. Customize again hides them.
+

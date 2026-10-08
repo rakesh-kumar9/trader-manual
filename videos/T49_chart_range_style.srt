@@ -1,0 +1,36 @@
+1
+00:00:02,110 --> 00:00:05,170
+These buttons under the chart choose how far back it shows.
+
+2
+00:00:05,270 --> 00:00:10,890
+1M loads the last month. Scroll left to see all of it.
+
+3
+00:00:10,990 --> 00:00:14,750
+The chart picks a candle size that fits the period.
+
+4
+00:00:14,850 --> 00:00:23,350
+1Y shows a whole year.
+
+5
+00:00:23,450 --> 00:00:29,100
+1D brings you back to today.
+
+6
+00:00:29,200 --> 00:00:32,610
+This button changes the chart style.
+
+7
+00:00:32,710 --> 00:00:42,140
+Candles are the default. Line shows only the closing prices.
+
+8
+00:00:42,240 --> 00:00:51,680
+Heikin Ashi smooths the candles so trends are easier to see.
+
+9
+00:00:51,780 --> 00:00:55,430
+Pick Candles to go back to the usual view.
+

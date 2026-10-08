@@ -1,0 +1,24 @@
+1
+00:00:02,090 --> 00:00:06,830
+Profiles let you keep different screen layouts and switch between them.
+
+2
+00:00:06,930 --> 00:00:12,420
+Your current profile is shown at the top.
+
+3
+00:00:12,520 --> 00:00:17,740
+Type a name for a new profile and click Create.
+
+4
+00:00:17,840 --> 00:00:25,930
+The new profile opens with the standard layout. Arrange it the way you like — it is saved to this profile.
+
+5
+00:00:26,030 --> 00:00:31,750
+To switch, open Profiles and pick one.
+
+6
+00:00:31,850 --> 00:00:35,250
+Your Default layout comes straight back.
+

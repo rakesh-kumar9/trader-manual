@@ -1,0 +1,32 @@
+1
+00:00:02,090 --> 00:00:05,850
+ActTrader can show the latest market news next to your chart.
+
+2
+00:00:05,950 --> 00:00:08,770
+Open Panels on the right.
+
+3
+00:00:08,870 --> 00:00:13,850
+Switch on News panel.
+
+4
+00:00:13,950 --> 00:00:18,210
+The news appears on the right, newest first.
+
+5
+00:00:18,310 --> 00:00:22,570
+Each story shows where it came from and when.
+
+6
+00:00:22,670 --> 00:00:28,490
+Click a headline to read the full story in your web browser.
+
+7
+00:00:28,590 --> 00:00:32,350
+Scroll down for older stories.
+
+8
+00:00:32,450 --> 00:00:35,850
+You can choose your news sources under News Feeds.
+

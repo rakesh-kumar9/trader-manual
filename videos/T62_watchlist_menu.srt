@@ -1,0 +1,48 @@
+1
+00:00:02,080 --> 00:00:04,700
+Right-click an instrument to see everything you can do with it.
+
+2
+00:00:04,800 --> 00:00:09,120
+Open Chart shows it on the chart. Price Alert sets an alert for it.
+
+3
+00:00:09,220 --> 00:00:12,630
+Market Order Buy and Sell trade at the current price.
+
+4
+00:00:12,730 --> 00:00:17,030
+Entry Stop and Entry Limit orders wait for a price you choose.
+
+5
+00:00:17,130 --> 00:00:20,550
+An OCO order is a pair: when one fills, the other is cancelled.
+
+6
+00:00:20,650 --> 00:00:25,330
+Add to Watchlist puts the instrument in one of your own lists.
+
+7
+00:00:25,430 --> 00:00:31,000
+Open your list's tab: the instrument is now in it.
+
+8
+00:00:31,100 --> 00:00:37,350
+In your own list, Remove from Watchlist takes it out again.
+
+9
+00:00:37,450 --> 00:00:41,970
+Right-click the Bid price for the Sell orders only.
+
+10
+00:00:42,070 --> 00:00:50,910
+Right-click the Ask price for the Buy orders only.
+
+11
+00:00:51,010 --> 00:00:56,070
+Choosing an order opens its ticket. Nothing is sent until you confirm.
+
+12
+00:00:56,170 --> 00:00:59,080
+Press Escape or click the cross to close it without trading.
+

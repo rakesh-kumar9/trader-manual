@@ -1,0 +1,40 @@
+1
+00:00:01,890 --> 00:00:06,520
+Already have a MetaTrader expert? ActFX can convert it for you.
+
+2
+00:00:06,620 --> 00:00:10,630
+On the ActFX tab, click MQL to ActFX.
+
+3
+00:00:10,730 --> 00:00:18,560
+Pick your .mq4 or .mq5 file with Select File, or paste the code here.
+
+4
+00:00:18,660 --> 00:00:21,220
+Give the new strategy a name.
+
+5
+00:00:21,320 --> 00:00:27,350
+Click Convert. The result is saved to your strategy library.
+
+6
+00:00:27,450 --> 00:00:31,210
+Your converted strategy is listed under My Strategies.
+
+7
+00:00:31,310 --> 00:00:36,520
+Click Edit to open the converted code.
+
+8
+00:00:36,620 --> 00:00:41,380
+Check it over. Settings you could change in MetaTrader are kept as settings here.
+
+9
+00:00:41,480 --> 00:00:46,200
+Click Compile to check it is ready to run.
+
+10
+00:00:46,300 --> 00:00:50,200
+No errors, so you can test it or run it like any other strategy.
+

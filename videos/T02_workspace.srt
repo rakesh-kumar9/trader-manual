@@ -1,0 +1,76 @@
+1
+00:00:02,100 --> 00:00:05,760
+This bar at the bottom always shows your money.
+
+2
+00:00:05,860 --> 00:00:09,520
+Balance is the cash in your account.
+
+3
+00:00:09,620 --> 00:00:13,780
+Equity is your balance plus or minus your open trades.
+
+4
+00:00:13,880 --> 00:00:18,040
+Usable Margin is what you can still trade with.
+
+5
+00:00:18,140 --> 00:00:22,310
+Used Margin is what your open trades are holding.
+
+6
+00:00:22,410 --> 00:00:26,870
+Net P/L shows if you are up or down right now.
+
+7
+00:00:26,970 --> 00:00:30,930
+A green dot means you are connected.
+
+8
+00:00:31,030 --> 00:00:34,790
+This is the account you are signed in to.
+
+9
+00:00:34,890 --> 00:00:38,650
+Instruments — browse everything you can trade.
+
+10
+00:00:38,750 --> 00:00:42,510
+Summary — all your accounts and totals in one place.
+
+11
+00:00:42,610 --> 00:00:46,370
+Reports — your statements and trading history.
+
+12
+00:00:46,470 --> 00:00:50,230
+ActFX — build and run automatic trading strategies.
+
+13
+00:00:50,330 --> 00:00:54,090
+Living Market — see which currencies are strong or weak.
+
+14
+00:00:54,190 --> 00:00:57,950
+Analytics — charts and numbers about how you trade.
+
+15
+00:00:58,050 --> 00:01:02,010
+Trading is the main screen you will use most.
+
+16
+00:01:02,110 --> 00:01:06,570
+On the left: your instruments and their live prices.
+
+17
+00:01:06,670 --> 00:01:10,630
+In the middle: the price chart.
+
+18
+00:01:10,730 --> 00:01:15,190
+At the bottom: your open trades and orders.
+
+19
+00:01:15,290 --> 00:01:18,700
+On the right: quick buttons for theme, panels and settings.
+

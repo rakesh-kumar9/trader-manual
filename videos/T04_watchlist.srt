@@ -1,0 +1,64 @@
+1
+00:00:05,000 --> 00:00:10,200
+SYMBOL is the name of the instrument.
+
+2
+00:00:10,400 --> 00:00:14,500
+BID is the price you sell at.
+
+3
+00:00:14,700 --> 00:00:18,800
+ASK is the price you buy at.
+
+4
+00:00:19,000 --> 00:00:23,500
+SPRD is the gap between buying and selling.
+
+5
+00:00:23,600 --> 00:00:28,800
+These tabs sort everything into groups.
+
+6
+00:00:28,900 --> 00:00:35,400
+Forex shows currency pairs.
+
+7
+00:00:35,500 --> 00:00:41,700
+Crypto shows coins like Bitcoin.
+
+8
+00:00:41,800 --> 00:00:47,900
+Indices shows market indexes.
+
+9
+00:00:48,000 --> 00:00:54,100
+Commodities shows gold, silver and oil.
+
+10
+00:00:54,200 --> 00:01:00,300
+Stocks shows company shares.
+
+11
+00:01:00,500 --> 00:01:05,200
+All puts everything back in one list.
+
+12
+00:01:05,400 --> 00:01:10,300
+Use search to find anything fast.
+
+13
+00:01:10,500 --> 00:01:18,000
+Type a few letters and the list narrows down.
+
+14
+00:01:18,100 --> 00:01:25,900
+Right click a row to buy, sell, or set an alert.
+
+15
+00:01:26,000 --> 00:01:30,800
+Majors is your own saved list of favourites.
+
+16
+00:01:30,900 --> 00:01:36,800
+Click any row to load that instrument on the chart.
+

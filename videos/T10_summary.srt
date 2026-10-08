@@ -1,0 +1,32 @@
+1
+00:00:01,890 --> 00:00:06,750
+Summary puts all your numbers on one screen.
+
+2
+00:00:06,850 --> 00:00:11,310
+The top lists your accounts and their balances.
+
+3
+00:00:11,410 --> 00:00:15,670
+Below that, your open trades added up by instrument.
+
+4
+00:00:15,770 --> 00:00:20,230
+Close here closes every trade in that instrument at once.
+
+5
+00:00:20,330 --> 00:00:24,790
+Bottom left, a log of everything that has happened.
+
+6
+00:00:24,890 --> 00:00:29,360
+Risk Exposure shows how much you hold in each currency.
+
+7
+00:00:29,460 --> 00:00:33,720
+On the right, any price alerts you have set.
+
+8
+00:00:33,820 --> 00:00:37,070
+Trading takes you back.
+

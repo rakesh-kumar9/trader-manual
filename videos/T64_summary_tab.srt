@@ -1,0 +1,56 @@
+1
+00:00:01,900 --> 00:00:06,520
+The Summary tab gives you an overview of your accounts and positions.
+
+2
+00:00:06,620 --> 00:00:10,880
+At the top, each account shows its balance, equity, margin and profit.
+
+3
+00:00:10,980 --> 00:00:15,740
+Below, open positions are added up per instrument, with Buy and Sell on separate rows.
+
+4
+00:00:15,840 --> 00:00:19,910
+The title shows what is being summed, and the total profit or loss.
+
+5
+00:00:20,010 --> 00:00:22,620
+Right-click to change what is summed.
+
+6
+00:00:22,720 --> 00:00:29,400
+Overall counts every open position. Day and Shift count only today's, or this shift's.
+
+7
+00:00:29,500 --> 00:00:37,430
+The title now says Day.
+
+8
+00:00:37,530 --> 00:00:41,450
+Not hedged summary only hides positions that are covered by an opposite position.
+
+9
+00:00:41,550 --> 00:00:46,370
+Our Buy and Sell cover each other, so both rows are hidden.
+
+10
+00:00:46,470 --> 00:00:50,180
+Right-click the list and choose it again to show every row.
+
+11
+00:00:50,280 --> 00:00:55,900
+Events and Messages lists what happened: orders, positions and messages from your broker.
+
+12
+00:00:56,000 --> 00:00:59,760
+Click an event to read its details below.
+
+13
+00:00:59,860 --> 00:01:04,620
+Risk Exposure shows how much of each currency you hold. Here the Buy and Sell cancel out.
+
+14
+00:01:04,720 --> 00:01:10,840
+Export CSV saves a list as a spreadsheet file. You are asked to confirm first.
+

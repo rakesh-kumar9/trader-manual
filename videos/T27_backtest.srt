@@ -1,0 +1,40 @@
+1
+00:00:01,890 --> 00:00:06,530
+Before you run a strategy for real, test it on past prices.
+
+2
+00:00:06,630 --> 00:00:11,820
+Open the Tester.
+
+3
+00:00:11,920 --> 00:00:15,640
+Pick a strategy, for example EMA Cross.
+
+4
+00:00:15,740 --> 00:00:23,090
+Its settings appear. You can change any of them before the test.
+
+5
+00:00:23,190 --> 00:00:26,220
+Choose the instrument to test it on.
+
+6
+00:00:26,320 --> 00:00:30,580
+Set the time period and timeframe to look back over.
+
+7
+00:00:30,680 --> 00:00:34,580
+Press Start. It replays the past prices and trades them for you.
+
+8
+00:00:35,680 --> 00:00:40,640
+The results: profit or loss, win rate, drawdown and number of trades.
+
+9
+00:00:40,740 --> 00:00:45,700
+The chart marks every buy and sell the strategy made.
+
+10
+00:00:45,800 --> 00:00:49,700
+On the right, the full breakdown. No real money is used.
+

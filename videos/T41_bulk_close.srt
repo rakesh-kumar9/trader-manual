@@ -1,0 +1,24 @@
+1
+00:00:02,090 --> 00:00:05,850
+With several positions open, you can close them together.
+
+2
+00:00:05,950 --> 00:00:09,470
+Click Bulk Operations.
+
+3
+00:00:09,570 --> 00:00:16,080
+Close all positions, only the ones in profit, or only the ones at a loss.
+
+4
+00:00:16,180 --> 00:00:20,380
+You are asked to confirm, with the number of positions that will close.
+
+5
+00:00:20,480 --> 00:00:26,990
+Click Close Positions.
+
+6
+00:00:27,090 --> 00:00:29,990
+Both positions are closed at the current price.
+

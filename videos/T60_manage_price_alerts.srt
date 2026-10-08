@@ -1,0 +1,60 @@
+1
+00:00:02,100 --> 00:00:06,360
+Your price alerts are listed on the Summary tab, under Price Alerts.
+
+2
+00:00:06,460 --> 00:00:09,070
+Right-click the list to manage your alerts.
+
+3
+00:00:09,170 --> 00:00:15,380
+Choose Add Alert to create a new one.
+
+4
+00:00:15,480 --> 00:00:19,290
+Type the instrument and pick it from the list.
+
+5
+00:00:19,390 --> 00:00:22,650
+Choose whether to watch the Bid or the Ask price.
+
+6
+00:00:22,750 --> 00:00:26,310
+The rate starts at the current price. Type the price you want.
+
+7
+00:00:26,410 --> 00:00:33,590
+The line below tells you what will trigger the alert.
+
+8
+00:00:33,690 --> 00:00:37,950
+Alerts are saved on the server, so they stay when you log in again.
+
+9
+00:00:38,050 --> 00:00:43,090
+Double-click an alert, or right-click and choose Edit Alert, to change it.
+
+10
+00:00:43,190 --> 00:00:50,880
+Change the rate, then click Save.
+
+11
+00:00:50,980 --> 00:00:54,100
+Remove Alert deletes one alert.
+
+12
+00:00:54,200 --> 00:01:03,380
+You are asked to confirm first. Click Remove.
+
+13
+00:01:03,480 --> 00:01:09,110
+This alert is left at the current price, so it fires almost at once.
+
+14
+00:01:09,210 --> 00:01:18,890
+When the price is reached, a notification appears and the alert is removed.
+
+15
+00:01:18,990 --> 00:01:29,740
+Remove All Alerts clears the whole list.
+

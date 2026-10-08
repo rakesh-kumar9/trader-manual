@@ -1,0 +1,36 @@
+1
+00:00:02,090 --> 00:00:06,920
+You can choose which columns every table shows.
+
+2
+00:00:07,020 --> 00:00:08,880
+Right click any column header.
+
+3
+00:00:08,980 --> 00:00:12,290
+Choose Customize.
+
+4
+00:00:12,390 --> 00:00:18,930
+Tick a column to show it, untick to hide it.
+
+5
+00:00:19,030 --> 00:00:21,990
+Select one and use the arrows to move it.
+
+6
+00:00:22,090 --> 00:00:25,350
+Default puts everything back as it was.
+
+7
+00:00:25,450 --> 00:00:30,500
+Click OK.
+
+8
+00:00:30,600 --> 00:00:34,860
+The table changes straight away, and remembers your choice.
+
+9
+00:00:34,960 --> 00:00:38,730
+Drag the edge of a header to make a column wider or narrower.
+

@@ -1,0 +1,52 @@
+1
+00:00:02,100 --> 00:00:05,730
+Pending orders wait here until the price reaches them. Right-click one to see what you can do.
+
+2
+00:00:05,830 --> 00:00:08,890
+Modify Order changes its rate or amount.
+
+3
+00:00:08,990 --> 00:00:12,250
+Remove Order cancels just this one.
+
+4
+00:00:12,350 --> 00:00:15,780
+Stop and Limit attach a stop loss and take profit that start working once the order fills.
+
+5
+00:00:15,880 --> 00:00:20,640
+The stop is measured from the price the order will fill at, not today's price.
+
+6
+00:00:20,740 --> 00:00:26,130
+Click Ok to save it, or Cancel to leave it.
+
+7
+00:00:26,230 --> 00:00:29,990
+Trailing Stop attaches a stop that follows the price once the order fills.
+
+8
+00:00:30,090 --> 00:00:33,350
+Comment adds a short note to the order.
+
+9
+00:00:33,450 --> 00:00:37,010
+Bulk Operations cancels many orders at once: all of them, only limits, or only stops.
+
+10
+00:00:37,110 --> 00:00:40,230
+Click Cancel All Orders.
+
+11
+00:00:40,330 --> 00:00:43,620
+It asks first, and shows how many orders will be cancelled.
+
+12
+00:00:43,720 --> 00:00:49,130
+Click Cancel Orders.
+
+13
+00:00:49,230 --> 00:00:52,130
+All pending orders are cancelled.
+

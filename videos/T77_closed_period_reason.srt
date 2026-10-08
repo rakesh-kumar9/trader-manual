@@ -1,0 +1,44 @@
+1
+00:00:01,880 --> 00:00:04,140
+The Closed tab lists the trades you have closed. It starts with the last day.
+
+2
+00:00:04,240 --> 00:00:06,860
+Click the period button to look further back.
+
+3
+00:00:06,960 --> 00:00:08,610
+Pick 5 Days, 1 Month or 6 Months, or Custom for your own dates.
+
+4
+00:00:08,710 --> 00:00:14,210
+For Custom, type the From and Till dates.
+
+5
+00:00:14,310 --> 00:00:19,820
+Click Show Result.
+
+6
+00:00:19,920 --> 00:00:23,180
+Every trade closed in that range is listed.
+
+7
+00:00:23,280 --> 00:00:29,530
+To add a column, right-click a heading and choose Customize.
+
+8
+00:00:29,630 --> 00:00:34,300
+Tick Reason, then click Ok.
+
+9
+00:00:34,400 --> 00:00:39,160
+Reason shows why a trade closed, such as S for stop loss or L for take profit. A dash means you closed it.
+
+10
+00:00:39,260 --> 00:00:43,230
+The arrow at the right of the status bar shows the rollover time and the clock.
+
+11
+00:00:43,330 --> 00:00:45,790
+Click it again to hide them.
+

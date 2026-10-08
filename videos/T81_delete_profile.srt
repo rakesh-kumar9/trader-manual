@@ -1,0 +1,16 @@
+1
+00:00:01,910 --> 00:00:04,240
+Open Profiles on the right-hand strip.
+
+2
+00:00:04,340 --> 00:00:13,490
+Scalping is the profile in use. To remove it, first switch to another one.
+
+3
+00:00:13,590 --> 00:00:16,510
+Click the cross beside a profile to delete it.
+
+4
+00:00:16,610 --> 00:00:21,010
+It is deleted straight away, without a question, so check the name first.
+

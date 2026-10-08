@@ -1,0 +1,52 @@
+1
+00:00:02,090 --> 00:00:04,820
+An entry order waits until the price reaches a level you choose. Right-click an instrument.
+
+2
+00:00:04,920 --> 00:00:08,680
+Entry Stop Buy buys if the price rises to your level.
+
+3
+00:00:08,780 --> 00:00:12,540
+Entry Limit Buy buys if the price falls to your level.
+
+4
+00:00:12,640 --> 00:00:15,770
+Pick Entry Stop Buy.
+
+5
+00:00:15,870 --> 00:00:19,630
+The rate starts 10 pips above the current price.
+
+6
+00:00:19,730 --> 00:00:23,760
+Change the distance in pips, here to 30. The rate moves with it.
+
+7
+00:00:23,860 --> 00:00:28,470
+Click Buy to place the order.
+
+8
+00:00:28,570 --> 00:00:32,330
+It waits in the Pending tab until the price gets there.
+
+9
+00:00:32,430 --> 00:00:37,190
+ES means entry stop. Proximity shows how many pips the price still has to go.
+
+10
+00:00:37,290 --> 00:00:43,110
+Its line is above the chart, so this arrow points to it.
+
+11
+00:00:43,210 --> 00:00:46,320
+For a limit, pick Entry Limit Buy instead.
+
+12
+00:00:46,420 --> 00:00:50,680
+Now the rate starts below the price, because a limit buys cheaper.
+
+13
+00:00:50,780 --> 00:00:53,060
+Close the window to leave it.
+

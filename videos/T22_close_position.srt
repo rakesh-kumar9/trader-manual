@@ -1,0 +1,40 @@
+1
+00:00:02,090 --> 00:00:07,780
+When you are ready to take your profit or loss, close the trade.
+
+2
+00:00:07,880 --> 00:00:11,610
+Right click it and choose Close Position.
+
+3
+00:00:11,710 --> 00:00:15,470
+The window shows which position you are closing.
+
+4
+00:00:15,570 --> 00:00:19,830
+You can close all of it, or just part, by changing the amount.
+
+5
+00:00:19,930 --> 00:00:23,790
+Use current dealing rate closes at the live price.
+
+6
+00:00:23,890 --> 00:00:29,630
+Click OK to close it.
+
+7
+00:00:29,730 --> 00:00:33,490
+The trade is gone from your open positions.
+
+8
+00:00:33,590 --> 00:00:37,420
+Open the Closed tab to see trades you have closed.
+
+9
+00:00:37,520 --> 00:00:45,850
+Pick how far back to look, for example 1 Month.
+
+10
+00:00:45,950 --> 00:00:50,350
+Each closed trade shows its open and close price and its final profit or loss.
+

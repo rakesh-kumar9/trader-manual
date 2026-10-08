@@ -1,0 +1,68 @@
+1
+00:00:02,090 --> 00:00:06,170
+These icons on the right hold all your settings.
+
+2
+00:00:06,270 --> 00:00:12,460
+Theme switches between dark and light.
+
+3
+00:00:12,560 --> 00:00:19,170
+You can make all the text bigger or smaller here.
+
+4
+00:00:19,270 --> 00:00:22,930
+Panels turns parts of the screen on and off.
+
+5
+00:00:23,030 --> 00:00:29,630
+Turn the news panel or the chart price lines off if you like.
+
+6
+00:00:29,730 --> 00:00:35,490
+News Feeds is where you pick your news sources.
+
+7
+00:00:35,590 --> 00:00:38,750
+The gear icon opens the full settings window.
+
+8
+00:00:38,850 --> 00:00:44,670
+Account shows your ID, your currency and your time zone.
+
+9
+00:00:44,770 --> 00:00:48,830
+Scroll down to choose how money values are shown.
+
+10
+00:00:48,930 --> 00:00:52,590
+Security is where you change your password.
+
+11
+00:00:52,690 --> 00:00:57,260
+It tells you exactly what the new password needs.
+
+12
+00:00:57,360 --> 00:01:01,020
+Diagnostics sends a report to support if something goes wrong.
+
+13
+00:01:01,120 --> 00:01:06,470
+You can send it to the server, save it, or e-mail it.
+
+14
+00:01:06,570 --> 00:01:11,520
+Trading is the biggest page. Start with your order size.
+
+15
+00:01:11,620 --> 00:01:15,680
+Keep scrolling for notifications, sounds and more.
+
+16
+00:01:15,780 --> 00:01:19,450
+Session shows your current login.
+
+17
+00:01:19,550 --> 00:01:24,210
+Log Out is here when you are finished.
+

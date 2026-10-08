@@ -1,0 +1,24 @@
+1
+00:00:01,890 --> 00:00:04,830
+Before you log in, the gear on the login screen opens Settings.
+
+2
+00:00:04,930 --> 00:00:09,060
+Language sets the language of the app.
+
+3
+00:00:09,160 --> 00:00:16,000
+Entries lets you add a server your broker gave you: a name, its address and its DB alias.
+
+4
+00:00:16,100 --> 00:00:19,720
+Click Add, and the entry is listed below.
+
+5
+00:00:19,820 --> 00:00:23,140
+The cross removes an entry again.
+
+6
+00:00:23,240 --> 00:00:25,900
+Click Save to close Settings and go back to the login screen.
+

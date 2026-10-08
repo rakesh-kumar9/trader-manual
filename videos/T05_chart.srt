@@ -1,0 +1,44 @@
+1
+00:00:04,800 --> 00:00:10,600
+The chart shows the instrument you picked in your watchlist.
+
+2
+00:00:10,800 --> 00:00:16,500
+Each candle is one slice of time. Green means the price went up.
+
+3
+00:00:16,600 --> 00:00:22,100
+Prices run down the right-hand side.
+
+4
+00:00:22,300 --> 00:00:28,400
+Time runs along the bottom.
+
+5
+00:00:28,600 --> 00:00:34,100
+Click the timeframe button to change how long each candle covers.
+
+6
+00:00:34,200 --> 00:00:44,500
+5m means every candle is five minutes.
+
+7
+00:00:44,600 --> 00:00:50,700
+1h gives you a wider view — one candle per hour.
+
+8
+00:00:50,900 --> 00:00:56,300
+These buttons along the bottom set how far back you look.
+
+9
+00:00:56,400 --> 00:01:02,600
+5D shows the last five days.
+
+10
+00:01:02,700 --> 00:01:08,600
+1M shows the last month.
+
+11
+00:01:08,800 --> 00:01:14,600
+1D brings you back to today.
+

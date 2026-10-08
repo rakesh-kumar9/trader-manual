@@ -1,0 +1,24 @@
+1
+00:00:02,090 --> 00:00:06,630
+If something is not working, you can send support a diagnostic report.
+
+2
+00:00:06,730 --> 00:00:10,440
+Open Settings and go to Diagnostics.
+
+3
+00:00:10,540 --> 00:00:17,610
+Details shows what goes into the report, such as your settings and app logs.
+
+4
+00:00:17,710 --> 00:00:21,230
+Then choose what to do with it: send it to the server, save it to a file, or e-mail it.
+
+5
+00:00:21,330 --> 00:00:27,850
+Click Start.
+
+6
+00:00:27,950 --> 00:00:34,470
+The report is ready. Send this file to your broker's support team.
+

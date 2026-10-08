@@ -1,0 +1,40 @@
+1
+00:00:02,100 --> 00:00:05,430
+To place a trade, right click an instrument in the watchlist.
+
+2
+00:00:05,530 --> 00:00:09,240
+Choose Market Order Buy.
+
+3
+00:00:09,340 --> 00:00:13,600
+The order ticket opens. A market order trades at the current price.
+
+4
+00:00:13,700 --> 00:00:16,960
+Pick Buy or Sell here.
+
+5
+00:00:17,060 --> 00:00:20,820
+These are the live prices you will get.
+
+6
+00:00:20,920 --> 00:00:25,190
+Set how much to trade. This is the smallest size, 0.01 lots.
+
+7
+00:00:25,290 --> 00:00:29,550
+Trader Range is how many pips the price may slip and still fill.
+
+8
+00:00:29,650 --> 00:00:33,410
+You can add a stop loss or take profit now, or later.
+
+9
+00:00:33,510 --> 00:00:39,920
+Click Buy to place the order.
+
+10
+00:00:40,020 --> 00:00:44,430
+Your new trade appears straight away under Open positions.
+

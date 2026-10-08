@@ -1,0 +1,40 @@
+1
+00:00:02,090 --> 00:00:05,850
+Your own watchlists appear as tabs under the categories.
+
+2
+00:00:05,950 --> 00:00:08,570
+Right-click a tab to move, rename or delete it.
+
+3
+00:00:08,670 --> 00:00:12,540
+Move Left and Move Right change the order of your tabs.
+
+4
+00:00:12,640 --> 00:00:17,810
+Majors now comes after Metals.
+
+5
+00:00:17,910 --> 00:00:22,980
+Choose Rename to give a tab a new name.
+
+6
+00:00:23,080 --> 00:00:26,820
+Type the new name and click Save.
+
+7
+00:00:26,920 --> 00:00:32,600
+The tab shows its new name. The instruments in it stay the same.
+
+8
+00:00:32,700 --> 00:00:36,120
+Delete Watchlist removes a tab you no longer need.
+
+9
+00:00:36,220 --> 00:00:41,230
+You are asked to confirm first. Deleting cannot be undone.
+
+10
+00:00:41,330 --> 00:00:44,730
+The watchlist is gone. Your other lists are not affected.
+

@@ -1,0 +1,44 @@
+1
+00:00:02,090 --> 00:00:06,220
+You can show more than one chart at a time.
+
+2
+00:00:06,320 --> 00:00:13,390
+Pick how many charts you want on screen.
+
+3
+00:00:13,490 --> 00:00:17,250
+Two by two gives you four charts.
+
+4
+00:00:17,350 --> 00:00:24,760
+Linked is on, so picking an instrument changes every chart at once.
+
+5
+00:00:24,860 --> 00:00:28,610
+Click Linked to turn that off.
+
+6
+00:00:28,710 --> 00:00:35,440
+Now click a chart to make it the active one.
+
+7
+00:00:35,540 --> 00:00:43,860
+A new instrument opens only in the active chart.
+
+8
+00:00:43,960 --> 00:00:47,210
+Back to a single chart.
+
+9
+00:00:47,310 --> 00:00:50,430
+The gear opens the chart's own settings.
+
+10
+00:00:50,530 --> 00:00:56,550
+Here you can change the chart colours.
+
+11
+00:00:56,650 --> 00:01:06,760
+New chart opens a chart in its own separate window.
+

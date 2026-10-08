@@ -1,0 +1,40 @@
+1
+00:00:02,100 --> 00:00:05,420
+Filters show only the rows you want. Click Filters.
+
+2
+00:00:05,520 --> 00:00:09,280
+A filter box appears under each column.
+
+3
+00:00:09,380 --> 00:00:12,810
+Number columns, like Open price, get a range filter.
+
+4
+00:00:12,910 --> 00:00:15,440
+Choose greater than, less than, equal or between, and type a value.
+
+5
+00:00:15,540 --> 00:00:19,560
+Click Ok.
+
+6
+00:00:19,660 --> 00:00:23,980
+No trade opened at 2 or higher, so the table is now empty.
+
+7
+00:00:24,080 --> 00:00:28,650
+The cross on Filters clears every filter, and the rows come back.
+
+8
+00:00:28,750 --> 00:00:36,350
+Text columns, like Account, match any text you type.
+
+9
+00:00:36,450 --> 00:00:43,290
+Date columns offer Current Day, Current Shift, or a From and Till range.
+
+10
+00:00:43,390 --> 00:00:46,790
+Filters on different columns work together. A row must match all of them.
+

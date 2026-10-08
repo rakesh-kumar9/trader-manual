@@ -1,0 +1,24 @@
+1
+00:00:02,090 --> 00:00:06,600
+Some settings are on the login screen, before you log in. Click the gear.
+
+2
+00:00:06,700 --> 00:00:11,460
+If your network needs a proxy to reach the internet, tick this box and enter its details.
+
+3
+00:00:11,560 --> 00:00:16,820
+An alternate server is used if your main server cannot be reached. Your broker gives you these.
+
+4
+00:00:16,920 --> 00:00:21,240
+Theme picks dark or light before you even log in.
+
+5
+00:00:21,340 --> 00:00:27,730
+Entries lets you add a server that is not in the list, using details from your broker.
+
+6
+00:00:27,830 --> 00:00:30,980
+Click Save to keep your changes, or Cancel to leave them as they were.
+

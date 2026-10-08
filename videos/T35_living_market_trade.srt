@@ -1,0 +1,28 @@
+1
+00:00:01,890 --> 00:00:07,720
+Living Market can also help you pick and size a trade.
+
+2
+00:00:07,820 --> 00:00:11,650
+Click the line between two currencies to pick that pair.
+
+3
+00:00:11,750 --> 00:00:16,510
+The narration explains, in plain words, what that pair is doing.
+
+4
+00:00:16,610 --> 00:00:20,370
+The pair appears in the action card at the bottom.
+
+5
+00:00:20,470 --> 00:00:25,230
+Conviction sets how big the trade is. The size in lots is shown here.
+
+6
+00:00:25,330 --> 00:00:29,590
+Then Buy or Sell trades that pair at that size.
+
+7
+00:00:29,690 --> 00:00:34,450
+Clicking another line switches to a different pair.
+

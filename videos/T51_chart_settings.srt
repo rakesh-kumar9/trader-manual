@@ -1,0 +1,28 @@
+1
+00:00:02,090 --> 00:00:06,110
+The gear on the chart opens Chart Settings.
+
+2
+00:00:06,210 --> 00:00:13,520
+Appearance sets the chart colours: background, grid, and the up and down candles.
+
+3
+00:00:13,620 --> 00:00:20,010
+Price-axis countdown shows how long until the current candle closes.
+
+4
+00:00:20,110 --> 00:00:23,420
+The Trading page controls your trades on the chart.
+
+5
+00:00:23,520 --> 00:00:27,780
+Show picks which lines appear: positions, orders, both, or none.
+
+6
+00:00:27,880 --> 00:00:32,140
+Position Style draws each open trade as a full line or a small dot.
+
+7
+00:00:32,240 --> 00:00:35,830
+Reset to Defaults puts everything back. Close the window with the X.
+
