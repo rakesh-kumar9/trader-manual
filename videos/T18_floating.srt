@@ -3,34 +3,34 @@
 You can pop parts of ActTrader out into their own windows.
 
 2
-00:00:05,090 --> 00:00:10,060
+00:00:05,090 --> 00:00:10,090
 New chart opens a chart in a window of its own.
 
 3
-00:00:10,160 --> 00:00:14,090
+00:00:10,190 --> 00:00:14,130
 Drag the title bar to move it anywhere, even onto another screen.
 
 4
-00:00:14,190 --> 00:00:17,640
-The green button makes it full size.
+00:00:14,230 --> 00:00:17,680
+The buttons on the right minimise it, make it full size, or close it.
 
 5
-00:00:17,740 --> 00:00:22,030
-The red button closes it.
+00:00:17,780 --> 00:00:22,080
+The X closes it.
 
 6
-00:00:22,130 --> 00:00:26,010
+00:00:22,180 --> 00:00:26,080
 Right click a tab along the top to undock it.
 
 7
-00:00:26,110 --> 00:00:31,370
+00:00:26,180 --> 00:00:31,440
 Summary now has its own window, so you can keep it open while you trade.
 
 8
-00:00:31,470 --> 00:00:35,190
-Click the red button to put it back in the main window.
+00:00:31,540 --> 00:00:35,260
+Click its X to put it back in the main window.
 
 9
-00:00:35,290 --> 00:00:38,190
+00:00:35,360 --> 00:00:38,260
 It is back in its tab, right where it started.
 

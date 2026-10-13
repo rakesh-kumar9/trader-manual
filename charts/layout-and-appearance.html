@@ -1844,6 +1844,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#the-side-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The side panel
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3810,6 +3821,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#the-side-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The side panel
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3868,25 +3890,30 @@
 <td>Expands the chart to fill the screen. Press it again (Exit Fullscreen) to return.</td>
 </tr>
 <tr>
-<td>Chart Bid line and Chart Ask line</td>
-<td>Panels icon on the right-hand strip</td>
-<td>Dashed lines at the current Bid and Ask prices. Switch each one on or off.</td>
-</tr>
-<tr>
 <td>Chart bottom bar</td>
 <td>Panels icon on the right-hand strip</td>
 <td>Shows or hides the date-range buttons under the chart.</td>
 </tr>
 <tr>
-<td>Save as template</td>
+<td>Undock this chart</td>
 <td>Right-click the chart</td>
-<td>Stores the current indicators, drawings and settings under a name. Apply them to any chart later from Apply template in the same menu. See <a href="../trading-tab/chart.html">The Chart</a>.</td>
+<td>Moves the chart into its own window. See 6.6.</td>
+</tr>
+<tr>
+<td>Trade from Charts</td>
+<td>Chart toolbar, right of the gear</td>
+<td>Turns trading from the chart on and off. When off, your position and order lines are hidden. See 6.4.</td>
+</tr>
+<tr>
+<td>Side panel</td>
+<td>The small buttons at the right edge of the chart</td>
+<td>Opens the Data Window and Objects panel — see below.</td>
 </tr>
 </tbody>
 </table>
 <p>When the window is narrow, New chart, Linked and the layout picker move into a drawer. Click the ‹ button near the right end of the tab bar (its tooltip reads "Chart controls") to open it.</p>
 <details class="video">
-<summary>Watch how: More chart controls (0:48)</summary>
+<summary>Watch how: More chart controls (0:44)</summary>
 <p><video controls="" preload="none" src="../videos/T75_chart_extras.mp4"></video></p>
 </details>
 <details class="video">
@@ -3894,11 +3921,11 @@
 <p><video controls="" preload="none" src="../videos/T07_multichart.mp4"></video></p>
 </details>
 <details class="video">
-<summary>Watch how: Use the settings icons (1:26)</summary>
+<summary>Watch how: Use the settings icons (1:27)</summary>
 <p><video controls="" preload="none" src="../videos/T03_settings.mp4"></video></p>
 </details>
 <h3 id="chart-settings">Chart Settings<a class="headerlink" href="#chart-settings" title="Permanent link">¶</a></h3>
-<p>Click the gear on the chart toolbar to open Chart Settings. It has two pages:</p>
+<p>Click the gear on the chart toolbar to open Chart Settings. It has five pages:</p>
 <table>
 <thead>
 <tr>
@@ -3909,7 +3936,19 @@
 <tbody>
 <tr>
 <td>Appearance</td>
-<td>The chart colours: Background, Grid, Axis Text, Axis Border, Crosshair, and the Candle Body, Candle Wick and Candle Border colours for rising and falling candles, plus Volume. Price-axis countdown shows how long until the current candle closes.</td>
+<td>The chart colours: Background, Grid, Axis Text, Axis Border, Crosshair, and the Candle Body, Candle Wick and Candle Border colours for rising and falling candles, plus Volume, and how bars are coloured. Click a colour box to open the palette: pick a colour, or type a colour code (for example #080808) and press OK.</td>
+</tr>
+<tr>
+<td>Status Line</td>
+<td>What shows next to the instrument name at the top left: the instrument name, the open/high/low/close of the candle under the cursor, the bar change and the volume.</td>
+</tr>
+<tr>
+<td>Scales</td>
+<td>The tags on the price scale: Last price, <strong>Bid</strong>, <strong>Ask</strong>, and High and low. This is where you switch the Bid and Ask price lines on or off. Time-axis countdown shows how long until the current candle closes.</td>
+</tr>
+<tr>
+<td>Canvas</td>
+<td>Horizontal and vertical grid lines, and a large faint watermark behind the chart (the instrument name, or your own text, in the size you choose).</td>
 </tr>
 <tr>
 <td>Trading</td>
@@ -3917,7 +3956,48 @@
 </tr>
 </tbody>
 </table>
-<p>Reset to Defaults puts everything back.</p>
+<p>At the bottom of the window:</p>
+<table>
+<thead>
+<tr>
+<th>Control</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Templates…</td>
+<td>Puts a saved settings template on this chart.</td>
+</tr>
+<tr>
+<td>Save…</td>
+<td>Saves the current settings as a template, under a name.</td>
+</tr>
+<tr>
+<td>Apply to all charts</td>
+<td>When ticked, your changes go to every chart, not just this one.</td>
+</tr>
+<tr>
+<td>Reset to Defaults</td>
+<td>Goes back to the standard settings.</td>
+</tr>
+</tbody>
+</table>
+<p>A theme picked in Chart Settings changes the whole app, just like the Theme icon on the right-hand strip. The chart's time zone always follows the app's time zone setting (Settings → Account).</p>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_settings_colours-light.png#only-light" data-desc-position="bottom"><img alt="Chart colours" src="../img/NEW_chart_settings_colours-light.png#only-light"></a>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_settings_colours-dark.png#only-dark" data-desc-position="bottom"><img alt="Chart colours" src="../img/NEW_chart_settings_colours-dark.png#only-dark"></a></p>
+<figcaption>
+<p>The Appearance page with the colour palette open on the Background colour.</p>
+</figcaption>
+</figure>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_settings_scales-light.png#only-light" data-desc-position="bottom"><img alt="Bid and Ask on the price scale" src="../img/NEW_chart_settings_scales-light.png#only-light"></a>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_settings_scales-dark.png#only-dark" data-desc-position="bottom"><img alt="Bid and Ask on the price scale" src="../img/NEW_chart_settings_scales-dark.png#only-dark"></a></p>
+<figcaption>
+<p>The Scales page with the Last price, Bid, Ask and High and low switches.</p>
+</figcaption>
+</figure>
 <figure>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_settings-light.png#only-light" data-desc-position="bottom"><img alt="Chart Settings" src="../img/NEW_chart_settings-light.png#only-light"></a>
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_settings-dark.png#only-dark" data-desc-position="bottom"><img alt="Chart Settings" src="../img/NEW_chart_settings-dark.png#only-dark"></a></p>
@@ -3926,13 +4006,45 @@
 </figcaption>
 </figure>
 <details class="video">
-<summary>Watch how: Chart settings and colours (0:37)</summary>
+<summary>Watch how: Chart settings and colours (1:01)</summary>
 <p><video controls="" preload="none" src="../videos/T51_chart_settings.mp4"></video></p>
 </details>
 <div class="admonition note">
 <p class="admonition-title">Light or dark charts</p>
 <p>The charts follow the app's theme. Use the Theme icon on the right-hand strip to switch between dark and light.</p>
 </div>
+<h3 id="the-side-panel">The side panel<a class="headerlink" href="#the-side-panel" title="Permanent link">¶</a></h3>
+<p>The small buttons at the right edge of the chart open a side panel with two tabs:</p>
+<table>
+<thead>
+<tr>
+<th>Tab</th>
+<th>What it shows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Data Window</td>
+<td>The date, open, high, low, close, change and volume of the candle under the cursor, and the values of your indicators.</td>
+</tr>
+<tr>
+<td>Objects</td>
+<td>The drawings on this chart.</td>
+</tr>
+</tbody>
+</table>
+<p>Close it with its X. The panel starts closed, and each chart remembers whether its panel is open.</p>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_side_panel-light.png#only-light" data-desc-position="bottom"><img alt="The side panel" src="../img/NEW_chart_side_panel-light.png#only-light"></a>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/NEW_chart_side_panel-dark.png#only-dark" data-desc-position="bottom"><img alt="The side panel" src="../img/NEW_chart_side_panel-dark.png#only-dark"></a></p>
+<figcaption>
+<p>The Data Window tab open at the right of the chart, showing the values of the candle under the cursor.</p>
+</figcaption>
+</figure>
+<details class="video">
+<summary>Watch how: Cursors, icons and the side panel (0:52)</summary>
+<p><video controls="" preload="none" src="../videos/T89_chart_cursor_side_panel.mp4"></video></p>
+</details>
 
 
 

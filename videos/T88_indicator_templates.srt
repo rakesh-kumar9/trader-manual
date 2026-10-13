@@ -1,0 +1,40 @@
+1
+00:00:02,080 --> 00:00:10,880
+Add the indicators you use. Open Indicators and search for one.
+
+2
+00:00:10,980 --> 00:00:19,580
+EMA and RSI are now on the chart.
+
+3
+00:00:19,680 --> 00:00:21,440
+At the bottom of the list, Save current indicators keeps this set as a template.
+
+4
+00:00:21,540 --> 00:00:29,410
+Give it a name and press Enter.
+
+5
+00:00:29,510 --> 00:00:33,950
+The template is listed here, ready for any chart.
+
+6
+00:00:34,050 --> 00:00:43,570
+Indicators belong to the chart, so they stay when you change instrument.
+
+7
+00:00:43,670 --> 00:00:46,940
+GBPUSD opens with the same EMA and RSI.
+
+8
+00:00:47,040 --> 00:00:56,210
+Remove one with its X.
+
+9
+00:00:56,310 --> 00:01:07,620
+Click the template to put its indicators back on the chart.
+
+10
+00:01:07,720 --> 00:01:13,800
+The X next to a template deletes it.
+

@@ -1,44 +1,36 @@
 1
-00:00:05,700 --> 00:00:11,400
-Indicators are extra lines that help you read the chart.
+00:00:02,090 --> 00:00:05,020
+Indicators are extra lines that help you read the chart. Click Indicators.
 
 2
-00:00:11,500 --> 00:00:14,500
-There are thirty of them, so use the search box.
+00:00:05,120 --> 00:00:08,690
+There are dozens, in groups: trend, momentum, volatility, volume and more.
 
 3
-00:00:14,600 --> 00:00:20,500
+00:00:08,790 --> 00:00:11,120
 Type part of the name to find one.
 
 4
-00:00:20,600 --> 00:00:29,700
+00:00:11,220 --> 00:00:16,310
 Click it and it appears on your chart straight away.
 
 5
-00:00:29,800 --> 00:00:37,300
-Each indicator gets a small tag. The eye hides it, the X removes it.
+00:00:16,410 --> 00:00:18,970
+Each indicator gets a small tag on the chart.
 
 6
-00:00:37,400 --> 00:00:44,200
-The pencil button shows the drawing tools.
+00:00:19,070 --> 00:00:24,350
+The eye hides it for a moment. Click again to show it.
 
 7
-00:00:44,300 --> 00:00:50,800
-The tools are grouped. This first group is lines and channels.
+00:00:24,450 --> 00:00:27,510
+The gear opens its settings, such as the period and colour.
 
 8
-00:00:51,000 --> 00:01:02,300
-Pick Trend Line.
+00:00:27,610 --> 00:00:31,040
+The X removes it.
 
 9
-00:01:02,500 --> 00:01:10,200
-Now click and drag on the chart to draw it.
-
-10
-00:01:10,300 --> 00:01:19,400
-The second group has Fibonacci and Gann tools.
-
-11
-00:01:19,600 --> 00:01:25,400
-Click the pencil again to hide the tools.
+00:00:31,140 --> 00:00:38,210
+The pencil button hides or shows the drawing tools on the left.
 

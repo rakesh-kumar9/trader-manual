@@ -1,0 +1,36 @@
+1
+00:00:02,950 --> 00:00:05,360
+Place an order from the chart: point above the market and click the plus.
+
+2
+00:00:05,460 --> 00:00:12,990
+Pick Sell Limit, then click the tick to send it.
+
+3
+00:00:13,090 --> 00:00:15,650
+The pending order is drawn on the chart: Sell 0.01.
+
+4
+00:00:15,750 --> 00:00:18,480
+To change it, click the pencil on its label.
+
+5
+00:00:18,580 --> 00:00:22,870
+Click the amount, then use plus or minus.
+
+6
+00:00:22,970 --> 00:00:27,900
+Click the tick. The order is changed to 0.02 on the server.
+
+7
+00:00:28,000 --> 00:00:31,260
+The Pending tab shows the new amount.
+
+8
+00:00:31,360 --> 00:00:38,440
+The X on the label removes the order. You are asked first.
+
+9
+00:00:38,540 --> 00:00:40,440
+The order is gone.
+

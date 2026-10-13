@@ -1,0 +1,32 @@
+1
+00:00:02,100 --> 00:00:04,730
+The calendar button jumps the chart to a date.
+
+2
+00:00:04,830 --> 00:00:08,170
+Type the date, month first.
+
+3
+00:00:08,270 --> 00:00:14,690
+Click Go. Older history is loaded if needed.
+
+4
+00:00:14,790 --> 00:00:18,550
+The chart now shows that day, in your app's time zone.
+
+5
+00:00:18,650 --> 00:00:24,070
+1D brings you back to today.
+
+6
+00:00:24,170 --> 00:00:30,660
+% shows the price scale as a percentage change.
+
+7
+00:00:30,760 --> 00:00:37,230
+log uses a logarithmic scale, useful over long periods.
+
+8
+00:00:37,330 --> 00:00:41,590
+auto keeps all the candles in view as you scroll. It is on by default.
+

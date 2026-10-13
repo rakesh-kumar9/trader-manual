@@ -1,44 +1,40 @@
 1
-00:00:01,890 --> 00:00:04,360
+00:00:01,890 --> 00:00:04,350
 Click the instrument name on the chart to pick another one.
 
 2
-00:00:04,460 --> 00:00:10,940
+00:00:04,450 --> 00:00:10,920
 Type part of the name, then click the instrument.
 
 3
-00:00:11,040 --> 00:00:13,160
+00:00:11,020 --> 00:00:13,130
 Right-click the chart for its own menu.
 
 4
-00:00:13,260 --> 00:00:16,320
-Save as template keeps this chart's indicators and settings under a name.
+00:00:13,230 --> 00:00:17,500
+Undock this chart opens it in a window of its own.
 
 5
-00:00:16,420 --> 00:00:20,690
-Apply template puts a saved template on any chart.
-
-6
-00:00:20,790 --> 00:00:22,900
+00:00:17,600 --> 00:00:19,710
 The button at the top of the drawing bar opens the Actions menu.
 
-7
-00:00:23,000 --> 00:00:27,760
+6
+00:00:19,810 --> 00:00:24,570
 Undo, redo, delete, clear, hide or lock the drawings on this chart.
 
-8
-00:00:27,860 --> 00:00:31,330
+7
+00:00:24,670 --> 00:00:28,140
 Toggle Fullscreen gives the chart the whole window.
 
-9
-00:00:31,430 --> 00:00:35,950
+8
+00:00:28,240 --> 00:00:32,770
 Click the same button again to bring the panels back.
 
-10
-00:00:36,050 --> 00:00:39,500
+9
+00:00:32,870 --> 00:00:36,320
 This button turns all charts off, to save memory and processor time.
 
-11
-00:00:39,600 --> 00:00:46,080
+10
+00:00:36,420 --> 00:00:42,890
 Click it again to turn them back on.
 

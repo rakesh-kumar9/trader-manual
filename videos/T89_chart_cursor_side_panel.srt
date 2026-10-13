@@ -1,0 +1,40 @@
+1
+00:00:02,100 --> 00:00:04,510
+The top button of the drawing bar sets the cursor.
+
+2
+00:00:04,610 --> 00:00:07,470
+Cross, dot or arrow, an eraser for drawings, or zoom in on an area.
+
+3
+00:00:07,570 --> 00:00:16,590
+Demonstration draws a trail that fades, handy when you show the chart to someone.
+
+4
+00:00:16,690 --> 00:00:23,120
+This button adds icons and emoji to mark the chart.
+
+5
+00:00:23,220 --> 00:00:26,140
+This button opens the side panel.
+
+6
+00:00:26,240 --> 00:00:30,870
+Data Window shows the values of the candle under the cursor.
+
+7
+00:00:30,970 --> 00:00:35,410
+Objects lists the drawings on this chart.
+
+8
+00:00:35,510 --> 00:00:38,420
+Close the panel with its X. Each chart remembers if its panel is open.
+
+9
+00:00:38,520 --> 00:00:45,120
+This button turns trading from the chart on and off: your trade lines hide or show.
+
+10
+00:00:45,220 --> 00:00:50,970
+The menu at the top of the bar can clear all drawings.
+

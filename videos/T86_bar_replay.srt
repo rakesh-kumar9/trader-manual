@@ -1,0 +1,44 @@
+1
+00:00:02,100 --> 00:00:06,150
+Replay plays the market back candle by candle, so you can practise or check an idea.
+
+2
+00:00:06,250 --> 00:00:09,010
+A replay bar opens under the chart. First pick where the replay starts.
+
+3
+00:00:09,110 --> 00:00:12,220
+Click the candle to start from.
+
+4
+00:00:12,320 --> 00:00:15,580
+Everything after that candle is hidden.
+
+5
+00:00:15,680 --> 00:00:21,440
+Play adds the next candles one by one.
+
+6
+00:00:21,540 --> 00:00:24,450
+Click it again to pause.
+
+7
+00:00:24,550 --> 00:00:30,280
+This button moves forward one candle at a time.
+
+8
+00:00:30,380 --> 00:00:35,210
+Choose how fast it plays.
+
+9
+00:00:35,310 --> 00:00:41,840
+Now it plays three times faster.
+
+10
+00:00:41,940 --> 00:00:47,360
+This arrow can also start from a date, the first candle, or a random one.
+
+11
+00:00:47,460 --> 00:00:53,800
+The X ends the replay and brings back the live chart.
+

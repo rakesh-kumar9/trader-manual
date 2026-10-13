@@ -1,44 +1,44 @@
 1
-00:00:01,910 --> 00:00:06,710
+00:00:01,890 --> 00:00:06,630
 Right-click a tab, such as Summary, and undock it.
 
 2
-00:00:06,810 --> 00:00:09,570
+00:00:06,730 --> 00:00:09,490
 Summary now has a window of its own.
 
 3
-00:00:09,670 --> 00:00:15,460
+00:00:09,590 --> 00:00:15,400
 Undock a second panel, here Instruments.
 
 4
-00:00:15,560 --> 00:00:17,800
+00:00:15,500 --> 00:00:17,730
 With two panels floating, a + appears in the title bar.
 
 5
-00:00:17,900 --> 00:00:21,210
+00:00:17,830 --> 00:00:21,140
 Pick a panel to bring it into this window as a tab.
 
 6
-00:00:21,310 --> 00:00:25,900
+00:00:21,240 --> 00:00:25,830
 Click the tabs to switch between the panels.
 
 7
-00:00:26,000 --> 00:00:30,460
+00:00:25,930 --> 00:00:30,380
 The arrow on a tab moves it out into a window of its own again.
 
 8
-00:00:30,560 --> 00:00:33,020
-Yellow minimises a window to the taskbar.
+00:00:30,480 --> 00:00:32,940
+The first button minimises a window to the taskbar.
 
 9
-00:00:33,120 --> 00:00:35,580
-Green makes it full size, and restores it again.
+00:00:33,040 --> 00:00:35,490
+The next makes it full size, and restores it again.
 
 10
-00:00:35,680 --> 00:00:41,310
-Red puts the panel back in the main window.
+00:00:35,590 --> 00:00:41,250
+The X puts the panel back in the main window.
 
 11
-00:00:41,410 --> 00:00:44,310
+00:00:41,350 --> 00:00:44,250
 Both panels are back in their tabs.
 

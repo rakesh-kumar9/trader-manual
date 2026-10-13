@@ -1,28 +1,44 @@
 1
-00:00:02,090 --> 00:00:06,110
+00:00:02,090 --> 00:00:05,270
 The gear on the chart opens Chart Settings.
 
 2
-00:00:06,210 --> 00:00:13,520
+00:00:05,370 --> 00:00:08,930
 Appearance sets the chart colours: background, grid, and the up and down candles.
 
 3
-00:00:13,620 --> 00:00:20,010
-Price-axis countdown shows how long until the current candle closes.
+00:00:09,030 --> 00:00:16,860
+Click a colour box to open the palette, then pick a colour.
 
 4
-00:00:20,110 --> 00:00:23,420
-The Trading page controls your trades on the chart.
+00:00:16,960 --> 00:00:23,170
+You can also type a colour code and press OK.
 
 5
-00:00:23,520 --> 00:00:27,780
-Show picks which lines appear: positions, orders, both, or none.
+00:00:23,270 --> 00:00:29,430
+Status Line chooses what shows next to the instrument name.
 
 6
-00:00:27,880 --> 00:00:32,140
-Position Style draws each open trade as a full line or a small dot.
+00:00:29,530 --> 00:00:35,110
+Scales turns the Bid and Ask price lines on or off, and the candle countdown.
 
 7
-00:00:32,240 --> 00:00:35,830
-Reset to Defaults puts everything back. Close the window with the X.
+00:00:35,210 --> 00:00:43,800
+Canvas sets the grid lines and an optional watermark.
+
+8
+00:00:43,900 --> 00:00:47,890
+Trading controls how your trades are drawn on the chart.
+
+9
+00:00:47,990 --> 00:00:51,050
+Save keeps these settings as a template. Templates puts one back.
+
+10
+00:00:51,150 --> 00:00:53,710
+Tick Apply to all charts to change every chart at once.
+
+11
+00:00:53,810 --> 00:00:59,760
+Reset to Defaults goes back to the standard settings. Close the window with the X.
 
