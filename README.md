@@ -17,10 +17,11 @@ Preview copy: https://rakesh-kumar9.github.io/trader-manual/
 The manual is built for `/v2/`:
 - All links between pages, images and videos are **relative**, so they work in that folder.
 - The sitemap and each page's canonical address use `https://help.acttrader.com/v2/`.
-- The page-not-found page (`404.html`) loads its styles from `/v2/`. To use it, set it as the
-  error page for the `/v2/` folder (IIS: Error Pages → 404 → `/v2/404.html`;
-  nginx: `error_page 404 /v2/404.html;`; Apache: `ErrorDocument 404 /v2/404.html`).
-  This is optional; everything else works without it.
+- The page-not-found page (`404.html`) is self-contained: it works in any folder and offers
+  search, the manual home and the video list. To use it, set it as the error page for the
+  `/v2/` folder (IIS: Error Pages → 404 → `/v2/404.html`; nginx: `error_page 404 /v2/404.html;`;
+  Apache: `ErrorDocument 404 /v2/404.html`). Without this the server shows its own error page;
+  everything else works either way.
 
 ## Server settings
 
