@@ -1,0 +1,28 @@
+1
+00:00:09,290 --> 00:00:17,440
+If a strategy looks harmful, misleading or copied, you can report it. Open it first.
+
+2
+00:00:17,540 --> 00:00:20,040
+Report is at the bottom of the details.
+
+3
+00:00:20,140 --> 00:00:26,600
+Choose a reason. The seller never sees who reported it.
+
+4
+00:00:26,700 --> 00:00:31,020
+Add details if they help.
+
+5
+00:00:31,120 --> 00:00:35,380
+ActTrader reviews every report and decides what happens.
+
+6
+00:00:35,480 --> 00:00:39,160
+Changed your mind? Undo report takes it back while it is still open.
+
+7
+00:00:39,260 --> 00:00:42,170
+The report is withdrawn.
+

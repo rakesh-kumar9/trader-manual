@@ -7,34 +7,34 @@ Before you run a strategy for real, test it on past prices.
 Open the Tester.
 
 3
-00:00:11,920 --> 00:00:15,640
-Pick a strategy, for example EMA Cross.
+00:00:11,920 --> 00:00:15,630
+Pick one of your strategies, here a Darvas Box added from the Marketplace.
 
 4
-00:00:15,740 --> 00:00:23,090
+00:00:15,730 --> 00:00:23,070
 Its settings appear. You can change any of them before the test.
 
 5
-00:00:23,190 --> 00:00:26,220
+00:00:23,170 --> 00:00:26,210
 Choose the instrument to test it on.
 
 6
-00:00:26,320 --> 00:00:30,580
+00:00:26,310 --> 00:00:30,570
 Set the time period and timeframe to look back over.
 
 7
-00:00:30,680 --> 00:00:34,580
+00:00:30,670 --> 00:01:06,230
 Press Start. It replays the past prices and trades them for you.
 
 8
-00:00:35,680 --> 00:00:40,640
+00:01:06,330 --> 00:01:11,290
 The results: profit or loss, win rate, drawdown and number of trades.
 
 9
-00:00:40,740 --> 00:00:45,700
+00:01:11,390 --> 00:01:16,360
 The chart marks every buy and sell the strategy made.
 
 10
-00:00:45,800 --> 00:00:49,700
+00:01:16,460 --> 00:01:20,360
 On the right, the full breakdown. No real money is used.
 

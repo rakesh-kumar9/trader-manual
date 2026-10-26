@@ -1,72 +1,36 @@
 1
-00:00:01,900 --> 00:00:06,270
-The Strategies list has the built-in strategies. Ones you add appear under My Strategies.
+00:00:06,020 --> 00:00:10,670
+Strategies you bought or are trying are under Purchased. Your own, and ones you added from the Marketplace, are under My Strategies.
 
 2
-00:00:06,370 --> 00:00:10,470
+00:00:10,770 --> 00:00:15,340
 Type in the search box to find one.
 
 3
-00:00:10,570 --> 00:00:15,910
+00:00:15,440 --> 00:00:20,340
 Click the star to mark a favourite.
 
 4
-00:00:16,010 --> 00:00:20,370
-Right-click a strategy for more: run, test, edit, rename, clone or delete.
+00:00:20,440 --> 00:00:25,300
+Right-click a strategy for more: run, test, edit, rename, copy, publish or delete.
 
 5
-00:00:20,470 --> 00:00:24,030
-Import adds a strategy file that you were sent.
+00:00:25,400 --> 00:00:31,130
+Import adds a strategy file that you were sent. New starts one from scratch or from a template.
 
 6
-00:00:24,130 --> 00:00:29,720
-To write your own, start from a copy. Right-click a strategy and choose Clone.
+00:00:31,230 --> 00:00:38,000
+Click Edit to open it in the Editor.
 
 7
-00:00:29,820 --> 00:00:33,080
-The copy appears under My Strategies, and you can change it.
-
-8
-00:00:33,180 --> 00:00:39,970
-Click Edit to open it in the editor.
-
-9
-00:00:40,070 --> 00:00:50,960
+00:00:38,100 --> 00:00:49,000
 Click Compile to check it. No errors means it is ready.
 
-10
-00:00:51,060 --> 00:00:58,480
+8
+00:00:49,100 --> 00:00:56,320
 A mistake is listed with its line. Click it to jump there and fix it.
 
-11
-00:00:58,580 --> 00:01:03,390
-Once it compiles, click Add to save it to your library.
-
-12
-00:01:03,490 --> 00:01:08,720
-Your strategy is now under My Strategies.
-
-13
-00:01:08,820 --> 00:01:17,550
-Now let's run one and look at it while it works.
-
-14
-00:01:17,650 --> 00:01:22,960
-The panel on the right shows what it is doing, starting with its log.
-
-15
-00:01:23,060 --> 00:01:26,630
-Stats shows its trades, profit and how long it has run.
-
-16
-00:01:26,730 --> 00:01:31,840
-Edit Vars changes its settings while it runs.
-
-17
-00:01:31,940 --> 00:01:38,720
-Pause stops it trading for a while. Resume starts it again.
-
-18
-00:01:38,820 --> 00:01:48,930
-Stop ends it. Tick the boxes to close its trades and cancel its orders.
+9
+00:00:56,420 --> 00:01:04,650
+Fixed. Save keeps your changes, and they are saved to your account too.
 

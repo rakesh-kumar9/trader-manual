@@ -1,0 +1,48 @@
+1
+00:00:05,510 --> 00:00:10,080
+In ActFX, click New to start a strategy.
+
+2
+00:00:10,180 --> 00:00:15,140
+From Template gives you a working starting point.
+
+3
+00:00:15,240 --> 00:00:21,150
+Name it and pick a template, here RSI Reversal.
+
+4
+00:00:21,250 --> 00:00:29,890
+Create opens it in the Editor. Change it and test it until you're happy.
+
+5
+00:00:29,990 --> 00:00:33,450
+To share it, right-click it and choose Publish to Marketplace.
+
+6
+00:00:33,550 --> 00:00:44,250
+Fill in the name traders will see as the author, and a short summary.
+
+7
+00:00:44,350 --> 00:00:47,010
+Pick a category and the symbols it suits.
+
+8
+00:00:47,110 --> 00:00:53,530
+Choose a price. Free lets anyone add it and see the code.
+
+9
+00:00:53,630 --> 00:01:05,330
+Publish puts it in the Marketplace straight away.
+
+10
+00:01:05,430 --> 00:01:09,690
+My Listings shows everything you've published and whether it's live.
+
+11
+00:01:09,790 --> 00:01:15,600
+After you change the strategy, Publish update sends the new version.
+
+12
+00:01:15,700 --> 00:01:22,020
+Unpublish takes it down. Copies traders already made stay with them.
+

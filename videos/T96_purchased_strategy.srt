@@ -1,0 +1,24 @@
+1
+00:00:13,070 --> 00:00:21,950
+A strategy you bought, rented or are trying is marked Owned. The details show what you have and when it ends.
+
+2
+00:00:22,050 --> 00:00:25,710
+Show in ActFX takes you to it, under Purchased.
+
+3
+00:00:25,810 --> 00:00:31,190
+You can run and test it, but its code is not shown.
+
+4
+00:00:31,290 --> 00:00:39,190
+So the right-click menu has only Run and Test.
+
+5
+00:00:39,290 --> 00:00:45,720
+Run works like any other strategy: pick the account, timeframe, symbols and inputs.
+
+6
+00:00:45,820 --> 00:00:50,220
+The app checks your licence while it runs, and reminds you three days before a rent or trial ends.
+

@@ -1,0 +1,28 @@
+1
+00:00:13,370 --> 00:00:17,630
+Some strategies are paid. The price shows here, with any free trial.
+
+2
+00:00:17,730 --> 00:00:23,560
+Test it runs it in the Tester first. No purchase needed.
+
+3
+00:00:23,660 --> 00:00:38,290
+Its inputs are ready. Pick symbols and press Start to back-test it.
+
+4
+00:00:38,390 --> 00:00:43,150
+Rent or Buy sends a request to your broker. You pay them, and it's yours once they confirm.
+
+5
+00:00:43,250 --> 00:00:49,090
+Or try it free for a day.
+
+6
+00:00:49,190 --> 00:00:58,280
+The trial starts at once. It shows when it ends and where to find it.
+
+7
+00:00:58,380 --> 00:01:02,280
+Purchased lists everything you've bought, rented or are trying.
+

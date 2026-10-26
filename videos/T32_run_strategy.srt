@@ -1,9 +1,9 @@
 1
-00:00:01,900 --> 00:00:08,170
+00:00:01,900 --> 00:00:08,180
 When you are happy with a strategy, you can run it for real.
 
 2
-00:00:08,270 --> 00:00:12,090
+00:00:08,280 --> 00:00:12,090
 Select a strategy and click Run.
 
 3
@@ -12,41 +12,53 @@ Choose the account, the timeframe and the instrument.
 
 4
 00:00:16,550 --> 00:00:21,810
-Check the settings, like the trade size and the stop loss. The broker's minimum distance is shown under the stop and limit.
+Check its settings, like the trade size.
 
 5
 00:00:21,910 --> 00:00:26,170
 Risk controls can cap the lot size or stop it after a drawdown.
 
 6
-00:00:26,270 --> 00:00:32,110
+00:00:26,270 --> 00:00:32,100
 Click Run.
 
 7
-00:00:32,210 --> 00:00:36,470
+00:00:32,200 --> 00:00:36,460
 It is now running and watching the market for you.
 
 8
-00:00:36,570 --> 00:00:40,330
+00:00:36,560 --> 00:00:40,320
 The log shows everything it does.
 
 9
-00:00:40,430 --> 00:00:44,690
+00:00:40,420 --> 00:00:44,760
 These tabs show its trades, orders and results so far.
 
 10
-00:00:44,790 --> 00:00:47,920
-To stop it, click Stop.
+00:00:44,860 --> 00:00:48,420
+Stats shows its trades, profit and how long it has run.
 
 11
-00:00:48,020 --> 00:00:51,800
-Tick these to close its trades and cancel its orders as it stops.
+00:00:48,520 --> 00:00:53,640
+Edit Vars changes its settings while it runs.
 
 12
-00:00:51,900 --> 00:00:57,620
-Only trades this strategy placed are touched.
+00:00:53,740 --> 00:01:00,510
+Pause stops it trading for a while. Resume starts it again.
 
 13
-00:00:57,720 --> 00:01:00,620
+00:01:00,610 --> 00:01:03,750
+To stop it, click Stop.
+
+14
+00:01:03,850 --> 00:01:07,640
+Tick these to close its trades and cancel its orders as it stops.
+
+15
+00:01:07,740 --> 00:01:13,450
+Only trades this strategy placed are touched.
+
+16
+00:01:13,550 --> 00:01:16,450
 The strategy has stopped.
 

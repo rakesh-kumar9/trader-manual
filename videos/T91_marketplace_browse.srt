@@ -1,0 +1,56 @@
+1
+00:00:01,910 --> 00:00:06,350
+The Marketplace tab is a library of ready-made trading strategies.
+
+2
+00:00:06,450 --> 00:00:10,520
+Each card shows the strategy's name, its author and what it does.
+
+3
+00:00:10,620 --> 00:00:14,190
+The supplied strategies come from ActTrader, marked with a tick.
+
+4
+00:00:14,290 --> 00:00:17,550
+Free strategies cost nothing.
+
+5
+00:00:17,650 --> 00:00:23,180
+Others show a price to rent each month or to buy.
+
+6
+00:00:23,280 --> 00:00:31,170
+Pick a category to see only that kind of strategy.
+
+7
+00:00:31,270 --> 00:00:38,510
+Or type part of a name to search.
+
+8
+00:00:38,610 --> 00:00:43,940
+Click an author to see only their strategies.
+
+9
+00:00:44,040 --> 00:00:49,060
+The cross clears the author filter.
+
+10
+00:00:49,160 --> 00:00:53,920
+Click a card to open its details: summary, category, tags and price.
+
+11
+00:00:54,020 --> 00:01:02,160
+Add to My Strategies puts your own copy in ActFX, ready to run or test.
+
+12
+00:01:02,260 --> 00:01:08,080
+The star on a card marks a favourite. Favourites shows only those.
+
+13
+00:01:08,180 --> 00:01:14,200
+Purchased lists the strategies you have bought, rented or are trying for free.
+
+14
+00:01:14,300 --> 00:01:16,700
+The count shows how many strategies are listed.
+

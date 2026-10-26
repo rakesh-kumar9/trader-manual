@@ -1,28 +1,36 @@
 1
-00:00:01,880 --> 00:00:05,720
-Strategies you made or cloned are listed under My Strategies.
+00:00:06,030 --> 00:00:10,340
+Strategies you made or added are listed under My Strategies.
 
 2
-00:00:05,820 --> 00:00:07,980
-Right-click one and choose Rename.
+00:00:10,440 --> 00:00:14,360
+Make a Copy keeps a second version to experiment with.
 
 3
-00:00:08,080 --> 00:00:14,040
-Type the new name and click Rename.
+00:00:14,460 --> 00:00:18,770
+The copy appears right below.
 
 4
-00:00:14,140 --> 00:00:18,460
-The new name shows in the list.
+00:00:18,870 --> 00:00:21,030
+To rename it, right-click it and choose Rename.
 
 5
-00:00:18,560 --> 00:00:21,470
-Delete removes it. The supplied strategies cannot be renamed or deleted.
+00:00:21,130 --> 00:00:27,420
+Type the new name and click Rename.
 
 6
-00:00:21,570 --> 00:00:27,090
-You are asked to confirm, because this cannot be undone.
+00:00:27,520 --> 00:00:32,350
+The new name shows in the list. Spaces are left out.
 
 7
-00:00:27,190 --> 00:00:29,590
+00:00:32,450 --> 00:00:35,360
+Delete removes it.
+
+8
+00:00:35,460 --> 00:00:40,980
+You are asked to confirm, because this cannot be undone.
+
+9
+00:00:41,080 --> 00:00:43,480
 It is gone from My Strategies.
 

@@ -1,0 +1,36 @@
+1
+00:00:05,720 --> 00:00:13,010
+With no strategies of your own yet, ActFX points you to the Marketplace.
+
+2
+00:00:13,110 --> 00:00:16,870
+Open a free strategy, for example EMA Cross.
+
+3
+00:00:16,970 --> 00:00:20,220
+Click Add to My Strategies.
+
+4
+00:00:20,320 --> 00:00:26,840
+A copy is saved to your account. The card now says Added.
+
+5
+00:00:26,940 --> 00:00:32,780
+The star keeps a strategy in your Favourites, even if you don't add it.
+
+6
+00:00:32,880 --> 00:00:41,520
+Favourites shows the starred ones.
+
+7
+00:00:41,620 --> 00:00:46,740
+In ActFX, your copy is under My Strategies, ready to run, test or change.
+
+8
+00:00:46,840 --> 00:00:51,170
+Right-click and choose Make a Copy to keep a second version to experiment with.
+
+9
+00:00:51,270 --> 00:00:54,170
+The new copy appears in the list.
+
