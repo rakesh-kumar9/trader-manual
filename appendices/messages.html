@@ -1233,6 +1233,8 @@
       
         
       
+        
+      
     
     
     
@@ -1556,6 +1558,34 @@
     
   
     Deal Ticket Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../trading/requotes.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Re-quoted Orders
   
 
     
@@ -2787,6 +2817,8 @@
       
         
       
+        
+      
     
     
     
@@ -2914,6 +2946,34 @@
     
   
     Paid Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../marketplace/wallet.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Marketplace Wallet
   
 
     
@@ -4272,25 +4332,25 @@
 <tr>
 <td>Information</td>
 <td>Your broker's accent colour (orange by default)</td>
-<td>About 4 seconds</td>
+<td>At least 4 seconds</td>
 <td>No</td>
 </tr>
 <tr>
 <td>Success</td>
 <td>Green</td>
-<td>About 4 seconds</td>
+<td>At least 3 seconds</td>
 <td>No</td>
 </tr>
 <tr>
 <td>Warning</td>
 <td>Amber</td>
-<td>About 4 seconds</td>
+<td>At least 7 seconds</td>
 <td>No</td>
 </tr>
 <tr>
 <td>Error</td>
 <td>Red</td>
-<td>About 6 seconds</td>
+<td>At least 8 seconds</td>
 <td>No</td>
 </tr>
 <tr>
@@ -4301,6 +4361,7 @@
 </tr>
 </tbody>
 </table>
+<p>A long message stays longer: about 1.5 seconds plus a little for each character, up to 20 seconds. A message does not disappear while the pointer is over it, or while every ActTrader window is minimised. <strong>License ended</strong>, and ActFX warnings or errors after a strategy stopped, stay until you close them with ×.</p>
 <p>At most seven small messages are shown at once; older ones give way to newer. An identical message repeated within two seconds is shown only once. Critical windows are not counted in the seven and never disappear by themselves.</p>
 <p>When <strong>Show notifications</strong> is off (Settings → Trading), the small messages are not shown at all. Critical windows are still shown.</p>
 <h2 id="complete-message-list">Complete message list<a class="headerlink" href="#complete-message-list" title="Permanent link">¶</a></h2>
@@ -4567,6 +4628,14 @@
 <td>Chart symbol unchanged</td>
 <td>A running strategy's first (chart) symbol cannot change until you stop and run it again</td>
 </tr>
+<tr>
+<td>Order <n> cancelled — Reaction time has expired…</n></td>
+<td>You did not answer a re-quote in time (see <a href="../trading/requotes.html">Re-quoted Orders</a>)</td>
+</tr>
+<tr>
+<td>Close of position <n> cancelled — …The position is still open.</n></td>
+<td>You did not answer a re-quoted close in time</td>
+</tr>
 </tbody>
 </table>
 <h3 id="error">Error<a class="headerlink" href="#error" title="Permanent link">¶</a></h3>
@@ -4619,8 +4688,16 @@
 <td>The chart sent an action the application does not handle</td>
 </tr>
 <tr>
-<td>Invalid lot size</td>
-<td>The trade size in the chart strip was zero or unusable</td>
+<td><instrument>: Enter a lot size greater than zero</instrument></td>
+<td>The size typed in the chart strip was empty or zero. The lot box turns red</td>
+</tr>
+<tr>
+<td><instrument>: The amount must be not less than <min> and not more than <max> lots</max></min></instrument></td>
+<td>The size typed in the chart strip is outside the instrument's limits. Nothing is sent; the lot box turns red</td>
+</tr>
+<tr>
+<td><instrument>: The amount must be a multiple of Trade Step. Trade Step on <instrument> is <step> lots</step></instrument></instrument></td>
+<td>The size typed in the chart strip is not a whole number of steps</td>
 </tr>
 <tr>
 <td>No live price for <instrument></instrument></td>
@@ -4681,6 +4758,18 @@
 <tr>
 <td>Back-test failed</td>
 <td>A back-test failed for every symbol</td>
+</tr>
+<tr>
+<td>The connection with the server is lost. Please check your internet connection.</td>
+<td>The application could not reach your broker's server, for example while logging in, placing or closing an order, or loading closed trades</td>
+</tr>
+<tr>
+<td>Order <n>: new price not accepted</n></td>
+<td>The server did not take your answer to a re-quote. The reason appears beneath</td>
+</tr>
+<tr>
+<td>Close of position <n>: new price not accepted</n></td>
+<td>The same, for a re-quoted close</td>
 </tr>
 </tbody>
 </table>
@@ -4764,12 +4853,16 @@
 <td>There is no current price to trade at</td>
 </tr>
 <tr>
-<td>Invalid lot size for <instrument></instrument></td>
-<td>The size in the row is zero or unusable</td>
+<td><instrument>: Enter a lot size greater than zero</instrument></td>
+<td>The size in the row is empty or zero</td>
 </tr>
 <tr>
-<td>The amount must be not less than <min> and not more than <max> lots</max></min></td>
-<td>The size is outside the instrument's limits</td>
+<td><instrument>: The amount must be a multiple of Trade Step…</instrument></td>
+<td>The size in the row is not a whole number of steps</td>
+</tr>
+<tr>
+<td><instrument>: The amount must be not less than <min> and not more than <max> lots</max></min></instrument></td>
+<td>The size is outside the instrument's limits. Nothing is sent</td>
 </tr>
 <tr>
 <td>Order failed, or your broker's reason</td>

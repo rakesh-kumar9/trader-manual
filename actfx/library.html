@@ -1233,6 +1233,8 @@
       
         
       
+        
+      
     
     
     
@@ -1556,6 +1558,34 @@
     
   
     Deal Ticket Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../trading/requotes.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Re-quoted Orders
   
 
     
@@ -2856,6 +2886,8 @@
       
         
       
+        
+      
     
     
     
@@ -2983,6 +3015,34 @@
     
   
     Paid Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../marketplace/wallet.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Marketplace Wallet
   
 
     
@@ -4071,13 +4131,14 @@
 </tr>
 </tbody>
 </table>
-<p>Columns are a star for favourites, Name, and Description. Click the star to mark a favourite. Searching shows a single flat list of matches.</p>
+<p>Columns are a star for favourites, Name, and Description. Each strategy has a small badge with its initials. Click the star to mark a favourite. Searching shows a single flat list of matches.</p>
+<p>A strategy you published shows its Marketplace state next to its name: <strong>Published</strong>, <strong>In review</strong>, <strong>Changes needed</strong> or <strong>Taken down</strong> (see <a href="../marketplace/publishing.html">Publishing Your Strategies</a>).</p>
 <p>A running strategy shows its name in green with a "live" badge ("2× live" when it runs more than once). With one instance running you get Stop and Pause buttons on its row (Pause changes to Resume while it is paused); with several, a scrollable strip of chips — one per instance, showing its symbol and timeframe — each with its own pause and stop button. Click a chip to open that instance's details.</p>
 <figure>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/fig_actfx_library-light.png#only-light" data-desc-position="bottom"><img alt="The strategy library" src="../img/fig_actfx_library-light.png#only-light"></a>
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/fig_actfx_library-dark.png#only-dark" data-desc-position="bottom"><img alt="The strategy library" src="../img/fig_actfx_library-dark.png#only-dark"></a></p>
 <figcaption>
-<p>Right-click a strategy for Run, Test, Edit, Rename, Make a Copy, Publish to Marketplace, Improve with ActAI and Delete.</p>
+<p>Right-click a strategy for Run, Test, Edit, Rename, Make a Copy, the Marketplace items, Improve with ActAI and Delete.</p>
 </figcaption>
 </figure>
 <details class="video">
@@ -4095,19 +4156,60 @@
 <summary>Watch how: Publish your strategy (1:23)</summary>
 <p><video controls="" preload="none" src="../videos/T93_marketplace_publish.mp4"></video></p>
 </details>
-<p>If you have no strategies yet, the list offers Generate with ActAI, Create Blank and Import MQL4/MQL5, and a link to the Marketplace.</p>
+<p>If you have no strategies yet, the list starts with a large <strong>Browse the Marketplace</strong> card ("Add a ready-made strategy to run or test"), which opens the Marketplace tab. Below it, under <strong>or build your own</strong>, are <strong>Generate with ActAI</strong>, <strong>Create Blank</strong> and <strong>Import MQL4/MQL5</strong>. If your broker has no Marketplace, ActAI is the main card instead.</p>
 <p>Names cannot contain spaces: "My EMA Cross" is saved as "MyEMACross".</p>
 <h2 id="the-right-click-menu">The right-click menu<a class="headerlink" href="#the-right-click-menu" title="Permanent link">¶</a></h2>
-<p>Right-click a strategy for Run, Test, Edit, Rename, Make a Copy, Publish to Marketplace…, Improve with ActAI and Delete. For a purchased strategy only Run and Test are offered.</p>
+<p>Right-click a strategy for Run, Test, Edit, Rename, Make a Copy, the Marketplace items, Improve with ActAI and Delete. For a purchased strategy only Run and Test are offered. Items that do not apply right now are shown greyed out.</p>
 <ul>
 <li><strong>Make a Copy</strong> adds a second copy to My Strategies, with "Copy" at the end of its name.</li>
-<li><strong>Publish to Marketplace…</strong> shares it with other traders (see <a href="../marketplace/publishing.html">Publishing Your Strategies</a>).</li>
+<li>
+<p>The Marketplace items follow the strategy's listing (see <a href="../marketplace/publishing.html">Publishing Your Strategies</a>):</p>
+<table>
+<thead>
+<tr>
+<th>The strategy is…</th>
+<th>The menu offers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Not published</td>
+<td><strong>Publish to Marketplace…</strong></td>
+</tr>
+<tr>
+<td>Unpublished by you</td>
+<td><strong>Publish again…</strong></td>
+</tr>
+<tr>
+<td>Live</td>
+<td>"✓ Published on the Marketplace", <strong>Publish update…</strong> (greyed out, "no code changes", until you change the code) and <strong>Edit listing…</strong> (the text and price only)</td>
+</tr>
+<tr>
+<td>Live, with an update waiting for review</td>
+<td>"✓ Published · update in review"</td>
+</tr>
+<tr>
+<td>In review</td>
+<td>"In review on the Marketplace", nothing to send</td>
+</tr>
+<tr>
+<td>Changes needed</td>
+<td><strong>Fix and resend…</strong></td>
+</tr>
+<tr>
+<td>Taken down</td>
+<td><strong>Send fix for review…</strong>, or "Fix in review on the Marketplace" once you sent one</td>
+</tr>
+</tbody>
+</table>
+<p>Any published strategy also has <strong>View in My Listings</strong>. Python strategies cannot be published: the item says "(not for Python strategies)".</p>
+</li>
 </ul>
 <details class="video">
 <summary>Watch how: Copy, rename or delete a strategy (0:45)</summary>
 <p><video controls="" preload="none" src="../videos/T85_actfx_rename_delete.mp4"></video></p>
 </details>
-<p>When you select a strategy that is not running, the right-hand panel shows its name and description with Run, Edit, Test and Improve buttons, and a "Create New with ActAI" button for writing a new strategy from a description.</p>
+<p>When you select a strategy that is not running, the right-hand panel shows a card with its initials, name, description and a "Ready to run" label, with Run, Edit, Test and Improve buttons, and a "Create New with ActAI" button for writing a new strategy from a description. With no strategies at all, it says "Your strategies open here".</p>
 <p>Your strategies are saved to your account, so the same list appears on another computer when you log in there.</p>
 <table>
 <thead>
@@ -4118,16 +4220,12 @@
 </thead>
 <tbody>
 <tr>
-<td>Ctrl+N</td>
-<td>New strategy</td>
-</tr>
-<tr>
 <td>F5</td>
 <td>Run the selected strategy</td>
 </tr>
 <tr>
 <td>Shift+F5</td>
-<td>Back-test the selected strategy</td>
+<td>Open the selected strategy in the Tester</td>
 </tr>
 <tr>
 <td>Ctrl+E</td>
@@ -4139,7 +4237,7 @@
 </tr>
 <tr>
 <td>Delete</td>
-<td>Delete the selected strategy</td>
+<td>Delete the selected strategy (asks first)</td>
 </tr>
 </tbody>
 </table>

@@ -1324,6 +1324,8 @@
       
         
       
+        
+      
     
     
     
@@ -1647,6 +1649,34 @@
     
   
     Deal Ticket Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../trading/requotes.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Re-quoted Orders
   
 
     
@@ -2878,6 +2908,8 @@
       
         
       
+        
+      
     
     
     
@@ -3005,6 +3037,34 @@
     
   
     Paid Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../marketplace/wallet.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Marketplace Wallet
   
 
     
@@ -4151,7 +4211,7 @@
 </tr>
 <tr>
 <td><strong>T</strong></td>
-<td>The order type: <strong>ES</strong> Entry Stop, <strong>EL</strong> Entry Limit, <strong>S</strong> Stop, <strong>L</strong> Limit.</td>
+<td>The order type. Hover over the column header for the full list (see below).</td>
 </tr>
 <tr>
 <td><strong>Rate</strong></td>
@@ -4159,7 +4219,7 @@
 </tr>
 <tr>
 <td><strong>Proximity</strong></td>
-<td>How far that price is from the market, in pips.</td>
+<td>How far that price is from the market, in pips. It turns amber when the order is close to triggering, within your broker's imminent distance.</td>
 </tr>
 <tr>
 <td><strong>Sell / Buy</strong></td>
@@ -4180,6 +4240,53 @@
 </tbody>
 </table>
 <p>Account and Ticket are also shown. Currency, OCO, Trade ID, Created by and Comment can be turned on with <strong>Customize…</strong>.</p>
+<p>The order types in <strong>T</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Order type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ES / EL</td>
+<td>Entry Stop / Entry Limit</td>
+</tr>
+<tr>
+<td>S / L</td>
+<td>Stop (stop loss) / Limit (take profit)</td>
+</tr>
+<tr>
+<td>I</td>
+<td>A market order to open a position (Initiate), still waiting to be filled</td>
+</tr>
+<tr>
+<td>C</td>
+<td>A market order to close a position, still waiting to be filled</td>
+</tr>
+<tr>
+<td>R / T</td>
+<td>A market order to open (R) or close (T) whose price your broker changed — a re-quote (see <a href="../trading/requotes.html">Re-quoted Orders</a>)</td>
+</tr>
+<tr>
+<td>SF / LF / F</td>
+<td>A stop, limit or entry order that failed</td>
+</tr>
+<tr>
+<td>M</td>
+<td>Margin call</td>
+</tr>
+<tr>
+<td>ME</td>
+<td>Minimal equity</td>
+</tr>
+<tr>
+<td>J</td>
+<td>An <strong>I</strong> order that cannot be filled because there is not enough usable margin</td>
+</tr>
+</tbody>
+</table>
 <h2 id="the-right-click-menu">The right-click menu<a class="headerlink" href="#the-right-click-menu" title="Permanent link">¶</a></h2>
 <figure>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/fig_pend_ctx-light.png#only-light" data-desc-position="bottom"><img alt="The pending-order menu" src="../img/fig_pend_ctx-light.png#only-light"></a>

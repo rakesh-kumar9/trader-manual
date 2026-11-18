@@ -1233,6 +1233,8 @@
       
         
       
+        
+      
     
     
     
@@ -1556,6 +1558,34 @@
     
   
     Deal Ticket Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../trading/requotes.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Re-quoted Orders
   
 
     
@@ -2789,6 +2819,8 @@
       
         
       
+        
+      
     
     
     
@@ -2960,6 +2992,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#the-checks-before-publishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The checks before publishing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#my-listings" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2994,6 +3037,34 @@
     
   
     Paid Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="wallet.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Marketplace Wallet
   
 
     
@@ -4042,6 +4113,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#the-checks-before-publishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The checks before publishing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#my-listings" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -4077,7 +4159,7 @@
 </details>
 <h2 id="publishing-a-strategy">Publishing a strategy<a class="headerlink" href="#publishing-a-strategy" title="Permanent link">¶</a></h2>
 <ol>
-<li>In ActFX → Strategies, right-click the strategy and choose <strong>Publish to Marketplace…</strong>.</li>
+<li>In ActFX → Strategies, right-click the strategy and choose <strong>Publish to Marketplace…</strong>. Python strategies cannot be published: they run outside the app's protected environment, so the item is greyed out.</li>
 <li>
 <p>Fill in the form:</p>
 <table>
@@ -4128,7 +4210,7 @@
 </table>
 </li>
 <li>
-<p>Click <strong>Publish</strong>. The app checks the strategy first: it must compile, and it is run briefly on past prices to make sure it does not stop with an error. A message confirms when it is live.</p>
+<p>Click <strong>Publish</strong>. The app checks the listing and the strategy first, step by step with a progress bar; the form is locked while it runs (see below). A message confirms when it is live.</p>
 </li>
 </ol>
 <figure>
@@ -4166,9 +4248,17 @@
 </tr>
 </tbody>
 </table>
-<p>Traders who rent or buy a paid strategy can run and test it, but never see its code. Payment goes through the trader's broker (see <a href="paid.html">Paid Strategies</a>).</p>
+<p>Traders who rent or buy a paid strategy can run and test it, but never see its code. They pay from their Marketplace wallet, and your sales are paid into yours (see <a href="wallet.html">The Marketplace Wallet</a>). The lowest paid price is 5.00. Publishing a paid listing asks you to verify your email first (see <a href="paid.html#your-email-for-paid-strategies">Paid Strategies</a>).</p>
+<div class="admonition note">
+<p class="admonition-title">Paid listings are not open yet</p>
+<p>The Publish form already offers Rent and Buy, but for now the Marketplace accepts free listings only.</p>
+</div>
+<h2 id="the-checks-before-publishing">The checks before publishing<a class="headerlink" href="#the-checks-before-publishing" title="Permanent link">¶</a></h2>
+<p><strong>The listing text.</strong> Links, email addresses, phone numbers, @handles and messenger contacts are not allowed in the author name, summary, description, notes or tags. The strategy name must not contain Demo, Free, Trial, Lite or Light. Code that only runs on certain accounts or servers is not allowed. These stop the publish until you change them.</p>
+<p><strong>Warnings.</strong> Promises of profit, hype, emojis, and code that is the same as another of your live listings apart from its inputs give a warning. You can change the listing, or press <strong>Publish anyway</strong>.</p>
+<p><strong>The strategy itself.</strong> It must compile, and it is run on past prices — your broker's real prices when you are signed in — on the listing's own symbols (up to three), plus one quick run on a 5-minute chart. The check looks for risky behaviour: martingale (raising the size after losses), many trades open at once, no stop loss, deep drawdowns or margin close-outs, many trades in one bar, and code that behaves differently in testing or on fixed dates. One extreme sign, or three different ones, block the publish. Anything less marks the strategy as high risk: you confirm with <strong>Publish anyway</strong>, and ActTrader's reviewer sees the note.</p>
 <h2 id="my-listings">My Listings<a class="headerlink" href="#my-listings" title="Permanent link">¶</a></h2>
-<p>Open the Marketplace tab and click <strong>My Listings</strong> to see everything you published, with its state:</p>
+<p>Open the Marketplace tab and click <strong>My Listings</strong> to see everything you published, as cards. Each card shows the name and its state, the version (and any version waiting for review), the summary or ActTrader's reason, the price, stars (★) and copies (⧉), and buttons for what you can do now:</p>
 <table>
 <thead>
 <tr>
@@ -4180,6 +4270,10 @@
 <tr>
 <td>Live</td>
 <td>Traders can find it.</td>
+</tr>
+<tr>
+<td>Live · update in review</td>
+<td>Traders see the live version while ActTrader checks your update.</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -4207,17 +4301,21 @@
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/fig_mkt_mylistings-light.png#only-light" data-desc-position="bottom"><img alt="My Listings" src="../img/fig_mkt_mylistings-light.png#only-light"></a>
 <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../img/fig_mkt_mylistings-dark.png#only-dark" data-desc-position="bottom"><img alt="My Listings" src="../img/fig_mkt_mylistings-dark.png#only-dark"></a></p>
 <figcaption>
-<p>Each strategy you published with its state, version, price, stars and copies.</p>
+<p>Each strategy you published as a card, with its state, version, summary, price, stars, copies and the buttons for what you can do now.</p>
 </figcaption>
 </figure>
-<p>Each row shows the version, the price, the stars and the number of copies.</p>
+<p>Right-click a card (or press the Menu key, or click <strong>⋯</strong>) for every action; those that do not apply are greyed out. With the keyboard, use the arrows to move, Enter for the first button and Delete for Unpublish.</p>
 <ul>
-<li><strong>Publish update…</strong> sends a new version after you change the strategy in ActFX. It opens the same form, filled in.</li>
-<li><strong>Unpublish</strong> takes it out of the Marketplace. Copies traders already made, and licences they bought, stay with them. You can publish it again at any time.</li>
+<li><strong>Publish update…</strong> sends a new version after you change the strategy in ActFX. It opens the same form, filled in. It is offered only when the code changed since you published it from this computer.</li>
+<li><strong>Edit listing…</strong> changes the text and the price of a live listing without sending new code. It is not checked again, because the code is the one already checked.</li>
+<li><strong>View as traders see it</strong> opens the listing in Browse.</li>
+<li><strong>Unpublish…</strong> takes it out of the Marketplace, after you confirm. Copies traders already made, and licences they bought, stay with them. You can publish it again at any time.</li>
 <li><strong>Publish again…</strong> puts an unpublished strategy back in the Marketplace.</li>
-<li><strong>Withdraw</strong> cancels a strategy that is still in review.</li>
-<li><strong>Fix and send for review</strong> appears on a strategy ActTrader took down. Change the strategy, then send it; it goes live again once ActTrader approves it.</li>
+<li><strong>Edit and publish again…</strong> appears when ActTrader asked for changes.</li>
+<li><strong>Withdraw…</strong> cancels a version that is still in review. It asks first: <strong>Withdraw?</strong> for a first version (it does not go live; you can send it again any time), <strong>Withdraw update?</strong> (the live version stays) or <strong>Withdraw fix?</strong> (the listing stays taken down).</li>
+<li><strong>Fix and send for review…</strong> appears on a strategy ActTrader took down. Change the strategy, then send it; it goes live again once ActTrader approves it. Traders who bought it keep it.</li>
 </ul>
+<p>The same Marketplace items are on the strategy's right-click menu in ActFX → Strategies (see <a href="../actfx/library.html#the-right-click-menu">The Strategy Library</a>).</p>
 <p>If you delete the strategy from ActFX, its listing stays, but it can no longer be updated.</p>
 
 

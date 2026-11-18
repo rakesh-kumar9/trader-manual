@@ -1313,6 +1313,8 @@
       
         
       
+        
+      
     
     
     
@@ -1636,6 +1638,34 @@
     
   
     Deal Ticket Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../trading/requotes.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Re-quoted Orders
   
 
     
@@ -2867,6 +2897,8 @@
       
         
       
+        
+      
     
     
     
@@ -2994,6 +3026,34 @@
     
   
     Paid Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../marketplace/wallet.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Marketplace Wallet
   
 
     
@@ -4090,7 +4150,59 @@
 </details>
 <p>If there are no closed trades in the period, the table says so, with a <strong>Widen the period to see older trades</strong> link.</p>
 <h2 id="the-columns">The columns<a class="headerlink" href="#the-columns" title="Permanent link">¶</a></h2>
-<p>The Closed table has the same columns as <a href="open-positions.html">Open Positions</a>, with <strong>Close</strong> (the price you closed at) and <strong>Close Time</strong> instead of the live figures. You can also turn on Cl. Charge, Duration, User, Closed By and <strong>Reason</strong> (why it closed, for example <strong>S</strong> stop loss, <strong>L</strong> take profit, <strong>M</strong> margin call) with <strong>Customize…</strong>. A dash in Reason means you closed the trade yourself.</p>
+<p>The Closed table shows Account, Instrument, B/S, Lot, Open, <strong>Close</strong> (the price you closed at), P/L, Com, Net P/L, Open Time, <strong>Close Time</strong>, <strong>Reason</strong> and Ticket. It has no Stop or Limit columns. More columns, such as Cl. Charge, Duration, User, Opened By and Closed By, can be turned on with <strong>Customize…</strong>.</p>
+<p><strong>Reason</strong> is a code that says why the position closed. Hover over the column header to see the list.</p>
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C</td>
+<td>Closed by your own order</td>
+</tr>
+<tr>
+<td>D</td>
+<td>Closed by the dealer</td>
+</tr>
+<tr>
+<td>S</td>
+<td>Closed by its stop (stop loss)</td>
+</tr>
+<tr>
+<td>L</td>
+<td>Closed by its limit (take profit)</td>
+</tr>
+<tr>
+<td>M</td>
+<td>Margin call</td>
+</tr>
+<tr>
+<td>ME</td>
+<td>Minimal equity</td>
+</tr>
+<tr>
+<td>I</td>
+<td>An opposite-direction market order</td>
+</tr>
+<tr>
+<td>E</td>
+<td>An opposite-direction entry order</td>
+</tr>
+<tr>
+<td>T</td>
+<td>The price changed on a close order (re-quote)</td>
+</tr>
+<tr>
+<td>R</td>
+<td>The price changed on a market order (re-quote)</td>
+</tr>
+</tbody>
+</table>
+<p>To see only some reasons, filter the Reason column: the list shows each code with its meaning.</p>
 <details class="video">
 <summary>Watch how: Closed trades for any period (0:47)</summary>
 <p><video controls="" preload="none" src="../videos/T77_closed_period_reason.mp4"></video></p>
