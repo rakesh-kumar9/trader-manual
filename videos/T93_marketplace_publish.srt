@@ -1,48 +1,56 @@
 1
-00:00:05,510 --> 00:00:10,080
-In ActFX, click New to start a strategy.
+00:00:01,890 --> 00:00:06,510
+You can share your own strategies in the Marketplace.
 
 2
-00:00:10,180 --> 00:00:15,140
-From Template gives you a working starting point.
+00:00:06,610 --> 00:00:11,180
+In ActFX, click New to start a strategy.
 
 3
-00:00:15,240 --> 00:00:21,150
-Name it and pick a template, here RSI Reversal.
+00:00:11,280 --> 00:00:16,230
+From Template gives you a working starting point.
 
 4
-00:00:21,250 --> 00:00:29,890
-Create opens it in the Editor. Change it and test it until you're happy.
+00:00:16,330 --> 00:00:22,250
+Name it and pick a template, here RSI Reversal.
 
 5
-00:00:29,990 --> 00:00:33,450
-To share it, right-click it and choose Publish to Marketplace.
+00:00:22,350 --> 00:00:30,960
+Create opens it in the Editor. Change it and test it until you're happy.
 
 6
-00:00:33,550 --> 00:00:44,250
-Fill in the name traders will see as the author, and a short summary.
+00:00:31,060 --> 00:00:34,520
+To share it, right-click it and choose Publish to Marketplace.
 
 7
-00:00:44,350 --> 00:00:47,010
-Pick a category and the symbols it suits.
+00:00:34,620 --> 00:00:45,400
+Fill in the name traders will see as the author, and a short summary.
 
 8
-00:00:47,110 --> 00:00:53,530
-Choose a price. Free lets anyone add it and see the code.
+00:00:45,500 --> 00:00:48,160
+Pick a category and the symbols it suits.
 
 9
-00:00:53,630 --> 00:01:05,330
-Publish puts it in the Marketplace straight away.
+00:00:48,260 --> 00:00:52,420
+Choose a price. A free strategy can be added by anyone, who can also see its code.
 
 10
-00:01:05,430 --> 00:01:09,690
-My Listings shows everything you've published and whether it's live.
+00:00:52,520 --> 00:00:59,310
+Click Publish. The app checks the listing and runs a short back-test first.
 
 11
-00:01:09,790 --> 00:01:15,600
-After you change the strategy, Publish update sends the new version.
+00:01:03,770 --> 00:01:15,990
+When the checks pass, it is live in the Marketplace, and ActFX marks it Published.
 
 12
-00:01:15,700 --> 00:01:22,020
+00:01:16,090 --> 00:01:20,250
+My Listings shows everything you've published and whether it's live.
+
+13
+00:01:20,350 --> 00:01:26,170
+Edit listing changes its text and price without sending new code.
+
+14
+00:01:26,270 --> 00:01:32,590
 Unpublish takes it down. Copies traders already made stay with them.
 
