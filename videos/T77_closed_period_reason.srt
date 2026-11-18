@@ -1,44 +1,48 @@
 1
 00:00:01,880 --> 00:00:04,140
-The Closed tab lists the trades you have closed. It starts with the last day.
+The Closed tab lists the positions you have closed. It starts with the last day.
 
 2
 00:00:04,240 --> 00:00:06,860
 Click the period button to look further back.
 
 3
-00:00:06,960 --> 00:00:08,610
+00:00:06,960 --> 00:00:16,390
 Pick 5 Days, 1 Month or 6 Months, or Custom for your own dates.
 
 4
-00:00:08,710 --> 00:00:14,210
-For Custom, type the From and Till dates.
+00:00:16,490 --> 00:00:19,250
+Every position closed in that period is listed.
 
 5
-00:00:14,310 --> 00:00:19,820
-Click Show Result.
+00:00:19,350 --> 00:00:26,920
+Reason shows why each one closed. Point at the heading to see every code.
 
 6
-00:00:19,920 --> 00:00:23,180
-Every trade closed in that range is listed.
+00:00:27,020 --> 00:00:31,280
+C means you closed it yourself. S is a stop loss, L a take profit.
 
 7
-00:00:23,280 --> 00:00:29,530
-To add a column, right-click a heading and choose Customize.
+00:00:31,380 --> 00:00:35,650
+To see only some reasons, show the filter row.
 
 8
-00:00:29,630 --> 00:00:34,300
-Tick Reason, then click Ok.
+00:00:35,750 --> 00:00:40,370
+Each code is listed with its meaning.
 
 9
-00:00:34,400 --> 00:00:39,160
-Reason shows why a trade closed, such as S for stop loss or L for take profit. A dash means you closed it.
+00:00:40,470 --> 00:00:45,190
+Select C and click the left arrow to hide the positions you closed yourself.
 
 10
-00:00:39,260 --> 00:00:43,230
-The arrow at the right of the status bar shows the rollover time and the clock.
+00:00:45,290 --> 00:00:49,050
+Now the stop loss and take profit closes are easy to see.
 
 11
-00:00:43,330 --> 00:00:45,790
+00:00:49,150 --> 00:00:53,110
+The arrow at the right of the status bar shows the rollover time and the clock.
+
+12
+00:00:53,210 --> 00:00:55,670
 Click it again to hide them.
 

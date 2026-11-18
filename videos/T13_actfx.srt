@@ -1,32 +1,32 @@
 1
-00:00:01,890 --> 00:00:06,720
+00:00:01,900 --> 00:00:06,760
 ActFX is where you run automatic trading strategies.
 
 2
-00:00:06,820 --> 00:00:10,580
-There are four sections along the top.
+00:00:06,860 --> 00:00:10,620
+There are four sections, in the bar under the toolbar.
 
 3
-00:00:10,680 --> 00:00:16,700
+00:00:10,720 --> 00:00:16,940
 Strategies lists your own strategies and the ones you bought. Ready-made ones are in the Marketplace.
 
 4
-00:00:16,800 --> 00:00:21,560
+00:00:17,040 --> 00:00:21,790
 Each one trades by its own set of rules. Run starts it, Test tries it first.
 
 5
-00:00:21,660 --> 00:00:26,280
+00:00:21,890 --> 00:00:26,510
 Editor is where you write or change a strategy.
 
 6
-00:00:26,380 --> 00:00:31,500
+00:00:26,610 --> 00:00:31,740
 Tester runs it against past prices to see how it would have done.
 
 7
-00:00:31,600 --> 00:00:37,580
+00:00:31,840 --> 00:00:37,830
 ActAI builds a strategy for you from a plain description.
 
 8
-00:00:37,680 --> 00:00:40,940
+00:00:37,930 --> 00:00:41,210
 Trading takes you back.
 

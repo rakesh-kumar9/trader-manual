@@ -1,21 +1,21 @@
 1
-00:00:06,030 --> 00:00:10,340
+00:00:06,020 --> 00:00:10,330
 Strategies you made or added are listed under My Strategies.
 
 2
-00:00:10,440 --> 00:00:14,360
+00:00:10,430 --> 00:00:14,350
 Make a Copy keeps a second version to experiment with.
 
 3
-00:00:14,460 --> 00:00:18,770
+00:00:14,450 --> 00:00:18,770
 The copy appears right below.
 
 4
-00:00:18,870 --> 00:00:21,030
+00:00:18,870 --> 00:00:21,020
 To rename it, right-click it and choose Rename.
 
 5
-00:00:21,130 --> 00:00:27,420
+00:00:21,120 --> 00:00:27,420
 Type the new name and click Rename.
 
 6
@@ -23,14 +23,14 @@ Type the new name and click Rename.
 The new name shows in the list. Spaces are left out.
 
 7
-00:00:32,450 --> 00:00:35,360
+00:00:32,450 --> 00:00:35,370
 Delete removes it.
 
 8
-00:00:35,460 --> 00:00:40,980
+00:00:35,470 --> 00:00:41,050
 You are asked to confirm, because this cannot be undone.
 
 9
-00:00:41,080 --> 00:00:43,480
+00:00:41,150 --> 00:00:43,550
 It is gone from My Strategies.
 

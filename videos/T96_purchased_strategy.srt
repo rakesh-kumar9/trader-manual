@@ -1,24 +1,32 @@
 1
-00:00:13,070 --> 00:00:21,950
-A strategy you bought, rented or are trying is marked Owned. The details show what you have and when it ends.
+00:00:04,900 --> 00:00:12,540
+The Purchased chip in the Marketplace lists the strategies you own.
 
 2
-00:00:22,050 --> 00:00:25,710
-Show in ActFX takes you to it, under Purchased.
+00:00:12,640 --> 00:00:17,400
+A strategy you bought, rented or are trying is marked Owned. The details show what you have and when it ends.
 
 3
-00:00:25,810 --> 00:00:31,190
-You can run and test it, but its code is not shown.
+00:00:17,500 --> 00:00:25,400
+To keep a rented strategy, renew it here from your wallet.
 
 4
-00:00:31,290 --> 00:00:39,190
-So the right-click menu has only Run and Test.
+00:00:25,500 --> 00:00:29,160
+Show in ActFX takes you to it, under Purchased.
 
 5
-00:00:39,290 --> 00:00:45,720
-Run works like any other strategy: pick the account, timeframe, symbols and inputs.
+00:00:29,260 --> 00:00:34,400
+You can run and test it, but its code is not shown.
 
 6
-00:00:45,820 --> 00:00:50,220
+00:00:34,500 --> 00:00:42,400
+So the right-click menu has only Run and Test.
+
+7
+00:00:42,500 --> 00:00:48,940
+Run works like any other strategy: pick the account, timeframe, symbols and inputs.
+
+8
+00:00:49,040 --> 00:00:53,440
 The app checks your licence while it runs, and reminds you three days before a rent or trial ends.
 
